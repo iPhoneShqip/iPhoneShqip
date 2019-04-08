@@ -1,9 +1,0 @@
-Package: com.ishqip.androidlollipopstatusbar
-Name: Android Lollipop Status Bar
-Version: 1.0-1
-Architecture: iphoneos-arm
-Author: ogshaun <shaun.poposek@gmail.com>
-Description: Android Lollipop Status Bar. Included Signal Bars & Wifi.
-Depiction: http://ishqip.xyz/pages/androidlollipopstatusbar/index.php
-Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
-Section: Themes (System)
