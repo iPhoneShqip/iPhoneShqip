@@ -11,3 +11,77 @@ Filename: ./debs/ishqip.androidlollipopstatusbar.deb
 Size: 9636
 MD5sum: b3f5d2170708f74174449e2cd97f08f9
 
+Package: ishqip.avdesignsaepackallthemes
+Description: AE Pack from AVDESIGNS for All Themes
+Version: 1.0
+Name: AVDESIGNS AE Pack [All Themes]
+Section: Themes (Icons Effects & IconOmatic)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: AVDESIGNS <AVDESIGNSFX@gmail.com>
+Depiction: http://ishqip.xyz/pages/avdesignsaepackallthemes/index.html
+Filename: ./debs/ishqip.avdesignsaepackallthemes.deb
+Size: 2884266
+MD5sum: 84fc978acfd7b61c29856117c6127d8d
+
+Package: ishqip.birdforzeppelin
+Description: Logo Bird for Zeppelin. SUPPORTS: All iDevice on iOS 4.2 to iOS 9.0.2 Main Tweak required Zeppelin installed. Activate in Zeppelin.
+Version: 1.0
+Name: Bird for Zeppelin
+Section: Addons (Zeppelin)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depends: com.alexzielenski.zeppelin
+Depiction: http://ishqip.xyz/pages/birdforzeppelin/index.html
+Filename: ./debs/ishqip.birdforzeppelin.deb
+Size: 3138
+MD5sum: 59577729c4f949b8f34f56c64d2d9eba
+
+Package: ishqip.blackdock
+Description: Black Dock for iPhone, iPad & iPod Touch.
+Version: 1.0
+Name: Black Dock
+Section: Themes (Dock)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depiction: http://ishqip.xyz/pages/blackdock/index.html
+Filename: ./debs/ishqip.blackdock.deb
+Size: 43586
+MD5sum: 5ee99432a5d62a6c9e6de629da693bc7
+
+Package: ishqip.blackdockv2
+Description: Black Dock version 2 for iPhone, iPad & iPod Touch.
+Version: 1.0
+Name: Black Dock v2
+Section: Themes (Dock)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depiction: http://ishqip.xyz/pages/blackdockv2/index.html
+Filename: ./debs/ishqip.blackdockv2.deb
+Size: 46070
+MD5sum: 07f3bc82cf873ff958451747db38f98d
+
+Package: ishqip.brilliantdock
+Description: A Brilliant Dock for iPhone, iPad & iPod Touch.
+Version: 1.0
+Name: Brilliant Dock
+Section: Themes (Dock)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depiction: http://ishqip.xyz/pages/brilliantdock/index.html
+Filename: ./debs/ishqip.brilliantdock.deb
+Size: 90472
+MD5sum: 8a483a7c032030b6b57d7bffc12a79d9
+
+Package: ishqip.brilliantdockv2
+Description: Brilliant Dock version 2 for iPhone, iPad & iPod Touch.
+Version: 1.0
+Name: Brilliant Dock v2
+Section: Themes (Dock)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depiction: http://ishqip.xyz/pages/brilliantdockv2/index.html
+Filename: ./debs/ishqip.brilliantdockv2.deb
+Size: 59758
+MD5sum: c5a6ebf1d406c06732e7ee760c568def
+
