@@ -85,3 +85,81 @@ Filename: ./debs/ishqip.brilliantdockv2.deb
 Size: 59758
 MD5sum: c5a6ebf1d406c06732e7ee760c568def
 
+Package: ishqip.classicdockforwinterboard
+Description: ClassicDock for WinterBoard on iOS 7/8/9
+Version: 2.0
+Name: ClassicDock for WinterBoard on iOS 7/8/9
+Section: Tweaks
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: CoolStar & sharedRoutine
+Depiction: http://ishqip.xyz/pages/classicdockforwinterboard/index.html
+Filename: ./debs/ishqip.classicdockforwinterboard.deb
+Size: 446886
+MD5sum: 66230147c392d4e2f4fd75f7fdab4855
+
+Package: ishqip.cleandock
+Description: Clean Dock for iPhone, iPad & iPod Touch.
+Version: 1.0
+Name: Clean Dock
+Section: Themes (Dock)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Depiction: http://ishqip.xyz/pages/cleandock/index.html
+Filename: ./debs/ishqip.cleandock.deb
+Size: 23450
+MD5sum: 05ebdd3c81594caabe2cb13cb802e7e9
+
+Package: ishqip.cut
+Description: Cut: another beautiful theme by Indra Juliana. Brought to you with love by Mac Sn0wd3n.
+Version: 2.0
+Name: CUT by Indra Juliana
+Section: Themes (SpringBoard)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Ported by Sn0wd3n <imillslane@icloud.com>
+Depiction: http://ishqip.xyz/pages/cut/index.html
+Filename: ./debs/ishqip.cut.deb
+Size: 2125706
+MD5sum: 36a1fad86dbddb20973c8fe52f4f6d84
+
+Package: ishqip.cutdock
+Description: Cut: another beautiful theme by Indra Juliana. Brought to you with love by Mac Sn0wd3n. This package istall only dock.
+Version: 1.0
+Name: CUT Dock
+Section: Themes (Addons)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Ported by Sn0wd3n <imillslane@icloud.com>
+Depiction: http://ishqip.xyz/pages/cutdock/index.html
+Filename: ./debs/ishqip.cutdock.deb
+Size: 100228
+MD5sum: 594f8bf4eae59b1716b8490e60b95d1d
+
+Package: ishqip.cylindereffects
+Description: Effects Cylinder for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 9.0.2 Main tweaks required Cylinder. Apply via Cylinder on Effects in Settings.
+Version: 1.0
+Name: Cylinder Effects
+Section: Addons (Cylinder)
+Architecture: iphoneos-arm
+Depends: com.r333d.cylinder
+Author: iSHQ!P <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/cylindereffects/index.html
+Filename: ./debs/ishqip.cylindereffects.deb
+Size: 21040
+MD5sum: 6afe57777ffdee84ba432dc143cc6e82
+
+Package: ishqip.cylinderformulas
+Description: Formulas Cylinder from http://www.reddit.com/r/cylinder/ for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 9.0.2 Main tweaks required Cylinder and Cylinder Effects installed. Activate in Cylinder in Formulas on Settings.
+Version: 1.0
+Name: Cylinder Formulas
+Section: Addons (Cylinder)
+Architecture: iphoneos-arm
+Depends: com.r333d.cylinder, ishqip.cylindereffects
+Author: iSHQ!P <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/cylinderformulas/index.html
+Filename: ./debs/ishqip.cylinderformulas.deb
+Size: 4988
+MD5sum: 7ebac6edea0e9b4e95e6f7ded98cbb8d
+
