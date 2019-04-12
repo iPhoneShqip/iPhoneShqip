@@ -1,15 +1,15 @@
-Package: com.mtac.barvol
-Version: 0.1
+Package: ishqip.birdforzeppelin
+Description: Logo Bird for Zeppelin. SUPPORTS: All iDevice on iOS 4.2 to iOS 9.0.2 Main Tweak required Zeppelin installed. Activate in Zeppelin.
+Version: 1.0
+Name: Bird for Zeppelin
+Section: Addons (Zeppelin)
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Maintainer: MTAC
-Depends: mobilesubstrate
-Filename: debs/com.mtac.barvol_0.1_iphoneos-arm.deb
-Size: 49286
-MD5sum: caf4c7e94dc5d92afeebb2d73031f3a4
-SHA1: 350b21cef09a07f7894b15ef6de36f206dbedba6
-SHA256: 21707abc4302bc4d6ca42d2560f5385670459e22119cc23f2c3b5e564b155d15
-Section: Tweaks
-Description: Progress bar for StatusVol
-Author: MTAC
-Depiction: https://mtacs.github.io/description.html?id=com.mtac.barvol
-Name: BarVol
+Depends: com.alexzielenski.zeppelin
+Depiction: http://ishqip.xyz/pages/birdforzeppelin/index.html
+Filename: ./debs/ishqip.birdforzeppelin.deb
+Size: 3138
+MD5sum: 59577729c4f949b8f34f56c64d2d9eba
+SHA1: 96b64971d8a94a5cb50f0450594eb1938cf89c92
+SHA256: 03e9ef209c662ccbaecb82ee26982dab3c1d1c06071f61ef176d2906391801b3
+
