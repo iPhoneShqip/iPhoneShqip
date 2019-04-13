@@ -1,0 +1,8 @@
+<?php header("Status: 404 Not Found"); ?>
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0; URL=http://ishqip.xyz/">
+</head>
+</html>
+<?php exit(); ?>
