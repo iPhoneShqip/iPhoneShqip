@@ -1,45 +1,161 @@
-Package: androidlollipopstatusbar
-Description: Android Lollipop Status Bar. Included Signal Bars & Wifi.
+Package: ishqip.androidlollipopstatusbar
 Version: 1.0
-Name: Android Lollipop Status Bar
-Section: Themes (System)
-Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.androidlollipopstatusbar.deb
+Size: 9636
+MD5sum: b3f5d2170708f74174449e2cd97f08f9
+SHA1: f93ddf456cfdf77c3275d46bae665cf11f9d5a4b
+SHA256: 9e8003a18ef2445d7294187d33d603bbbbae60d7ef618c4ebd51ccf47224bfcf
+Section: Themes (System)
+Description: Android Lollipop Status Bar. Included Signal Bars & Wifi.
 Author: ogshaun <shaun.poposek@gmail.com>
 Depiction: http://ishqip.xyz/pages/androidlollipopstatusbar/index.html
-Filename: ./debs/androidlollipopstatusbar.deb
-Size: 9630
-MD5sum: 40b27ff51ccbfc28f486feab4764e5bd
-SHA1: fe01033bd5f34d88321f89499e8a0fe486aae877
-SHA256: 255e459413443792ed650689ca3bf2d9b7cd6f54317c1614e097e5053293df01
+Name: Android Lollipop Status Bar
 
-Package: ishqip.avdesignsaepackallthemes
-Description: AE Pack from AVDESIGNS for All Themes
+Package: ishqip.blackdock
 Version: 1.0
-Name: AVDESIGNS AE Pack [All Themes]
-Section: Themes (Icons Effects & IconOmatic)
-Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Author: AVDESIGNS <AVDESIGNSFX@gmail.com>
-Depiction: http://ishqip.xyz/pages/avdesignsaepackallthemes/index.html
-Filename: ./debs/ishqip.avdesignsaepackallthemes.deb
-Size: 2884266
-MD5sum: 84fc978acfd7b61c29856117c6127d8d
-SHA1: bbe16b41be4169157094cd67fd434f1292f49630
-SHA256: 2856434f3615620d1896edc3f63dd2ee3ca403f9226bcccbebd5e01c87ec87dd
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.blackdock.deb
+Size: 43586
+MD5sum: 5ee99432a5d62a6c9e6de629da693bc7
+SHA1: 5591dceb474abd1b30ef31f31c47ef204a17e1ab
+SHA256: b9621f14c26668d4759a9d7d9afaffd416b9ded071ef46556dd6474901efcba6
+Section: Themes (Dock)
+Description: Black Dock for iPhone, iPad & iPod Touch.
+Depiction: http://ishqip.xyz/pages/blackdock/index.html
+Name: Black Dock
 
-Package: ishqip.birdforzeppelin
-Description: Logo Bird for Zeppelin. SUPPORTS: All iDevice on iOS 4.2 to iOS 9.0.2 Main Tweak required Zeppelin installed. Activate in Zeppelin.
+Package: ishqip.blackdockv2
 Version: 1.0
-Name: Bird for Zeppelin
-Section: Addons (Zeppelin)
-Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Depends: com.alexzielenski.zeppelin
-Depiction: http://ishqip.xyz/pages/birdforzeppelin/index.html
-Filename: ./debs/ishqip.birdforzeppelin.deb
-Size: 3138
-MD5sum: 59577729c4f949b8f34f56c64d2d9eba
-SHA1: 96b64971d8a94a5cb50f0450594eb1938cf89c92
-SHA256: 03e9ef209c662ccbaecb82ee26982dab3c1d1c06071f61ef176d2906391801b3
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.blackdockv2.deb
+Size: 46070
+MD5sum: 07f3bc82cf873ff958451747db38f98d
+SHA1: 37b12623635f58d11140b252045eeb3bc8291341
+SHA256: d2885349175839314a08e4ceb9ba8b11b085436e0b63af3d285eacafd58a8637
+Section: Themes (Dock)
+Description: Black Dock version 2 for iPhone, iPad & iPod Touch.
+Depiction: http://ishqip.xyz/pages/blackdockv2/index.html
+Name: Black Dock v2
+
+Package: ishqip.brilliantdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.brilliantdock.deb
+Size: 90472
+MD5sum: 8a483a7c032030b6b57d7bffc12a79d9
+SHA1: c2de12bb8da3a2eb303afb5c76224a7fd203bb4c
+SHA256: 38c260e4932b7434fbefba8791ee24501956aef8a59285221b29929884776205
+Section: Themes (Dock)
+Description: A Brilliant Dock for iPhone, iPad & iPod Touch.
+Depiction: http://ishqip.xyz/pages/brilliantdock/index.html
+Name: Brilliant Dock
+
+Package: ishqip.brilliantdockv2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.brilliantdockv2.deb
+Size: 59758
+MD5sum: c5a6ebf1d406c06732e7ee760c568def
+SHA1: 1e477af5a2fa6651dc180a119e1cc47114ba44fb
+SHA256: 5048dd5bbbe419bca4c300ac91a889957f75c40766181e3d7181d23feeb7e09a
+Section: Themes (Dock)
+Description: Brilliant Dock version 2 for iPhone, iPad & iPod Touch.
+Depiction: http://ishqip.xyz/pages/brilliantdockv2/index.html
+Name: Brilliant Dock v2
+
+Package: ishqip.classicdockforwinterboard
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Depends: mobilesubstrate
+Filename: debs/ishqip.classicdockforwinterboard.deb
+Size: 446886
+MD5sum: 66230147c392d4e2f4fd75f7fdab4855
+SHA1: 2e4707827df4bdbd51303bfc67ae744481824c93
+SHA256: 7a7bd2899238f48ba5ec255d3e5a1b43fae4c1dc5f639cf8afc7e9ece0df0c65
+Section: Tweaks
+Description: ClassicDock for WinterBoard on iOS 7/8/9
+Author: CoolStar & sharedRoutine
+Depiction: http://ishqip.xyz/pages/classicdockforwinterboard/index.html
+Name: ClassicDock for WinterBoard on iOS 7/8/9
+
+Package: ishqip.cleandock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.cleandock.deb
+Size: 23450
+MD5sum: 05ebdd3c81594caabe2cb13cb802e7e9
+SHA1: 8dc2de34d9ae831acff85cff0768966481989a73
+SHA256: cff321dc9807e23f71fee14319f0ddcabf3a79d7af5259c6e9dd1a8f2e8222b8
+Section: Themes (Dock)
+Description: Clean Dock for iPhone, iPad & iPod Touch.
+Depiction: http://ishqip.xyz/pages/cleandock/index.html
+Name: Clean Dock
+
+Package: ishqip.cut
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.cut.deb
+Size: 2125706
+MD5sum: 36a1fad86dbddb20973c8fe52f4f6d84
+SHA1: f4d706fa02612e28bcf9a6226e7bbec561c296cd
+SHA256: baf57f89befb3e865a811bcd732a4194d81dcae41c075172da0a992bc5dd159d
+Section: Themes (SpringBoard)
+Description: Cut: another beautiful theme by Indra Juliana. Brought to you with love by Mac Sn0wd3n.
+Author: Ported by Sn0wd3n <imillslane@icloud.com>
+Depiction: http://ishqip.xyz/pages/cut/index.html
+Name: CUT by Indra Juliana
+
+Package: ishqip.cutdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.cutdock.deb
+Size: 100228
+MD5sum: 594f8bf4eae59b1716b8490e60b95d1d
+SHA1: e6a60149a5a6307fce1fb3192aad938c9357b77f
+SHA256: bef39c860c5401c21936d543a0842d986a2e261ff25c70d211769b58c0c298e7
+Section: Themes (Addons)
+Description: Cut: another beautiful theme by Indra Juliana. Brought to you with love by Mac Sn0wd3n. This package istall only dock.
+Author: Ported by Sn0wd3n <imillslane@icloud.com>
+Depiction: http://ishqip.xyz/pages/cutdock/index.html
+Name: CUT Dock
+
+Package: ishqip.cylindereffects
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.r333d.cylinder
+Filename: debs/ishqip.cylindereffects.deb
+Size: 21040
+MD5sum: 6afe57777ffdee84ba432dc143cc6e82
+SHA1: 41a256d70b28909639bbc8f769b2740dc86dde9a
+SHA256: 8716c2ec4961c07fd17b256895216af216670329b29b51170a82c644a9230c3a
+Section: Addons (Cylinder)
+Description: Effects Cylinder for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 9.0.2 Main tweaks required Cylinder. Apply via Cylinder on Effects in Settings.
+Author: iSHQ!P <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/cylindereffects/index.html
+Name: Cylinder Effects
+
+Package: ishqip.cylinderformulas
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.r333d.cylinder, ishqip.cylindereffects
+Filename: debs/ishqip.cylinderformulas.deb
+Size: 4988
+MD5sum: 7ebac6edea0e9b4e95e6f7ded98cbb8d
+SHA1: fb61f92d1d9954e0ba969bb5af60156fd6c58692
+SHA256: 20b43c0c131450902504b9249da4990499f8642bf219e37b66bc53df2bbe472d
+Section: Addons (Cylinder)
+Description: Formulas Cylinder from http://www.reddit.com/r/cylinder/ for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 9.0.2 Main tweaks required Cylinder and Cylinder Effects installed. Activate in Cylinder in Formulas on Settings.
+Author: iSHQ!P <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/cylinderformulas/index.html
+Name: Cylinder Formulas
 
