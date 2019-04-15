@@ -13,6 +13,36 @@ Author: ogshaun <shaun.poposek@gmail.com>
 Depiction: http://ishqip.xyz/pages/androidlollipopstatusbar/index.html
 Name: Android Lollipop Status Bar
 
+Package: ishqip.avdesignsaepackallthemes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.avdesignsaepackallthemes.deb
+Size: 2884262
+MD5sum: bca75935bab8911ee0dd8712735f1688
+SHA1: 6544c636833820a3ce2a87ccdd1fcf91126571e3
+SHA256: f2fbe4f2a2ccf95f5ab0d3caa864ac76dd57824f3413703d103a018801aff833
+Section: Themes (Icons Effects & IconOmatic)
+Description: AE Pack from AVDESIGNS for All Themes
+Author: AVDESIGNS <AVDESIGNSFX@gmail.com>
+Depiction: http://ishqip.xyz/pages/avdesignsaepackallthemes/index.html
+Name: AVDESIGNS AE Pack [All Themes]
+
+Package: ishqip.birdforzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs/ishqip.birdforzeppelin.deb
+Size: 3136
+MD5sum: fec828e39ea285297e1a328045fee869
+SHA1: 761475efe45ab397fb61f403bcf2a32a578f5866
+SHA256: 744b1d7fea4b1bea586a0e3cdb94d1a461d6b9dfe3f86ca649c39c270ad78bd1
+Section: Addons (Zeppelin)
+Description: Logo Bird for Zeppelin. SUPPORTS: All iDevice on iOS 4.2 to iOS 9.0.2 Main Tweak required Zeppelin installed. Activate in Zeppelin.
+Depiction: http://ishqip.xyz/pages/birdforzeppelin/index.html
+Name: Bird for Zeppelin
+
 Package: ishqip.blackdock
 Version: 1.0
 Architecture: iphoneos-arm
