@@ -2,7 +2,7 @@ Origin: iSHQ!P
 Label: iSHQ!P
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
+Codename: iphoneshqip
 Architectures: iphoneos-arm
 Components: main
 Description: iShqip REPO
