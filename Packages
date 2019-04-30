@@ -71,6 +71,21 @@ Description: Black Dock version 2 for iPhone, iPad & iPod Touch.
 Depiction: http://ishqip.xyz/pages/blackdockv2/index.html
 Name: Black Dock v2
 
+Package: ishqip.boldstatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.boldstatusbar.deb
+Size: 59444
+MD5sum: 6ac67adbe67fbec498e5d4eb05fb3b3e
+SHA1: 789475e1bb2a0eda7ca83365a3a058173036555f
+SHA256: 999acb17fa12ca6e8f59372b5389c143f64aa0fcefdf687b802ba74570bd5d4c
+Section: Themes (System)
+Description: Bold Status Bar.
+Author: Karen
+Depiction: http://ishqip.xyz/pages/boldstatusbar/index.html
+Name: Bold Status Bar
+
 Package: ishqip.brilliantdock
 Version: 1.0
 Architecture: iphoneos-arm
