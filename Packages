@@ -129,6 +129,21 @@ Description: Clean Dock for iPhone, iPad & iPod Touch.
 Depiction: http://ishqip.xyz/pages/cleandock/index.html
 Name: Clean Dock
 
+Package: ishqip.continuousstatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.continuousstatusbar.deb
+Size: 148486
+MD5sum: a89e5056abc8c4f4b0e74679779950e9
+SHA1: 99af18f29146d0d0ee9aa0ba289ac84dbb186ac0
+SHA256: 84c207bf8fbbbf3b592c536fb2872097902ea73f7e5b9ea227d43dc4dcbe2fcd
+Section: Themes (System)
+Description: Continuous Status Bar.
+Author: Karen
+Depiction: http://ishqip.xyz/pages/continuousstatusbar/index.htlm
+Name: Continuous Status Bar
+
 Package: ishqip.cut
 Version: 2.0
 Architecture: iphoneos-arm
