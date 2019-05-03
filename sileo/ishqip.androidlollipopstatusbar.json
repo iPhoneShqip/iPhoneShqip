@@ -7,7 +7,7 @@
           "tabname":"Details",
           "views":[
              {
-                "title":"NoSileoWarnings",
+                "title":"androidlollipopstatusbar",
                 "useBoldText":true,
                 "useBottomMargin":false,
                 "class":"DepictionSubheaderView"
@@ -18,13 +18,13 @@
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
-                      "url":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                      "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
+                      "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
+                      "fullSizeURL":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
                    },
                    {
                      "accessibilityText":"Screenshot",
-                     "url":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                     "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
+                     "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
+                     "fullSizeURL":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
                    }
                 ],
                 "ipad":{
@@ -33,12 +33,12 @@
                    "screenshots":[
                      {
                         "accessibilityText":"Screenshot",
-                        "url":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
+                        "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
                         "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
                      },
                      {
                        "accessibilityText":"Screenshot",
-                       "url":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
+                       "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
                        "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
                      }
                    ],
@@ -60,7 +60,7 @@
              },
              {
                 "title":"Version",
-                "text":"0.0.1-3",
+                "text":"1.0",
                 "class":"DepictionTableTextView"
              },
              {
@@ -78,7 +78,7 @@
              },
              {
                 "title":"Developer Website",
-                "action":"https://mtacs.github.io",
+                "action":"http://ishqip",
                 "class":"DepictionTableButtonView"
              },
              {
@@ -87,7 +87,7 @@
              },
              {
                 "title":"Developer",
-                "text":"MTAC",
+                "text":"iSHQ!P",
                 "class":"DepictionTableTextView"
              },
              {
