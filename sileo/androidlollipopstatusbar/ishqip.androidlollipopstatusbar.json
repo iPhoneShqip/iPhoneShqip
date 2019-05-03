@@ -18,13 +18,13 @@
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
-                      "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                      "fullSizeURL":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
+                      "url":"http://ishqip.xyz/sileo/androidlollipopstatusbar/img1.png",
+                      "fullSizeURL":"http://ishqip.xyz/sileo/androidlollipopstatusbar/img1.png"
                    },
                    {
                      "accessibilityText":"Screenshot",
-                     "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                     "fullSizeURL":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
+                     "url":"http://ishqip.xyz/pages/sileo/androidlollipopstatusbar/img1.png",
+                     "fullSizeURL":"http://ishqip.xyz/sileo/androidlollipopstatusbar/img1.png"
                    }
                 ],
                 "ipad":{
@@ -33,13 +33,13 @@
                    "screenshots":[
                      {
                         "accessibilityText":"Screenshot",
-                        "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                        "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
+                        "url":"http://ishqip.xyz/sileo/androidlollipopstatusbar/img1.png",
+                        "fullSizeURL":"http://iphoneshqip.xyz/sileo/androidlollipopstatusbar/img1.png"
                      },
                      {
                        "accessibilityText":"Screenshot",
-                       "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                       "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
+                       "url":"http://ishqip.xyz/sileo/androidlollipopstatusbar/img1.png",
+                       "fullSizeURL":"http://iphoneshqip.xyz/sileo/androidlollipopstatusbar/img1.png"
                      }
                    ],
                    "class":"DepictionScreenshotView"
@@ -78,7 +78,7 @@
              },
              {
                 "title":"Developer Website",
-                "action":"http://ishqip",
+                "action":"http://ishqip.xyz",
                 "class":"DepictionTableButtonView"
              },
              {
