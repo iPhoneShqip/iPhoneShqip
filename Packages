@@ -3,16 +3,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.androidlollipopstatusbar.deb
-Size: 9654
-MD5sum: 55f5e3ec0a4c1ccc75f1e1937f1d9fe6
-SHA1: 1086635c8f8c30af1402a13c38bef784a85008e5
-SHA256: 7ad8604aa7ca0b674ff3c7d4855378c1d2222f80df93e42cdc44d3fbc8a714b6
+Size: 9658
+MD5sum: bcbcf3d9f7e37024f74d338d3b750986
+SHA1: b2d1840bd4ea8cff6c9a699d4f30def41e32a18d
+SHA256: 87b11eda0542d611684cb9f641ab9f77df3c19299ec8c99d6ed07e093a26318b
 Section: Themes (System)
 Description: Android Lollipop Status Bar. Included Signal Bars & Wifi.
 Author: ogshaun <shaun.poposek@gmail.com>
 Depiction: http://ishqip.xyz/pages/androidlollipopstatusbar/index.html
 Name: Android Lollipop Status Bar
-Sileodepiction: https://ishqip.xhz/sileo/androidlollipopstatusbar.json
+Sileodepiction: https://ishqip.xhz/sileo/androidlollipopstatusbar/androidlollipopstatusbar.json
 
 Package: ishqip.avdesignsaepackallthemes
 Version: 1.0
