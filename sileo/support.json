@@ -1,0 +1,38 @@
+{
+    "title":"Support",
+    "tintColor":"#000000",
+    "views":[
+       {
+          "markdown":"If you have problems with my tweaks, please contact me.",
+          "useSpacing":true,
+          "useRawFormat":true,
+          "class":"DepictionMarkdownView"
+       },
+       {
+          "class":"DepictionSeparatorView"
+       },
+       {
+          "title":"Contact",
+          "class":"DepictionHeaderView"
+       },
+       {
+          "title":"Send an Email",
+          "action":"mailto:iPhoneShqip@hotmail.com",
+          "openExternal":true,
+          "class":"DepictionTableButtonView"
+       },
+       {
+          "title":"Follow on Twitter",
+          "action":"https://twitter.com/iPhShqip",
+          "openExternal":true,
+          "class":"DepictionTableButtonView"
+       },
+       {
+          "title":"Follow on Tumblr",
+          "action":"http://iphoneshqip.tumblr.com/",
+          "openExternal":true,
+          "class":"DepictionTableButtonView"
+       }
+    ],
+    "class":"DepictionStackView"
+ }
