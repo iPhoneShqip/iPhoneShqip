@@ -220,3 +220,32 @@ Author: iSHQ!P <iPhoneShqip@hotmail.com>
 Depiction: http://ishqip.xyz/pages/cylinderformulas/index.html
 Name: Cylinder Formulas
 
+Package: ishqip.elcapitanloadingindicator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.elcapitanloadingindicator.deb
+Size: 150082
+MD5sum: 4f82cff475b2213b8e4079bf624888cc
+SHA1: 06631fd5c466d32e3d3b669d5b763269d366d81d
+SHA256: 390288d61f7726ae5eb17cd83b8905b6cd2a32952d1e952b8cfd3fcaa79d9be4
+Section: Themes (System)
+Description: The Beach Ball loading indicator from Mac OS X 10.11
+Author: Andrew Hocking
+Depiction: http://ishqip.xyz/pages/elcapitanloadingindicator/index.html
+Name: El Capitan Loading Indicator
+
+Package: ishqip.elite7dockforios8to12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.elite7dockforios8to12.deb
+Size: 1292508
+MD5sum: 76b5a10f4e5f8c49740a5ea890a87096
+SHA1: c3f5604f3c67680557c25602489410a61eeb5d2f
+SHA256: 61be7e44d8ac0bd4552f3ce4ed771c222fbcfb0214efbad20c7edc7c3187a003
+Section: Themes (Dock)
+Description: Elite 7 Dock for iOS 8/9/10
+Depiction: http://ishqip.xyz/pages/elite7dockforios8to12/index.html
+Name: Elite 7 Dock for iOS 8/9/10/11/12
+
