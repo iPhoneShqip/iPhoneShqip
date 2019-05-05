@@ -225,12 +225,12 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.elcapitanloadingindicator.deb
-Size: 150082
-MD5sum: 4f82cff475b2213b8e4079bf624888cc
-SHA1: 06631fd5c466d32e3d3b669d5b763269d366d81d
-SHA256: 390288d61f7726ae5eb17cd83b8905b6cd2a32952d1e952b8cfd3fcaa79d9be4
+Size: 150086
+MD5sum: 8dddbb7a8d7ed84d33e58fe68c188eee
+SHA1: d0039866ad0401cab4e7a4b6e56339db08a560bc
+SHA256: 54f5935b5d3050ed8f962cb4fb1697ad2c6f22767269e5aed17fe9e72f8fb2b5
 Section: Themes (System)
-Description: The Beach Ball loading indicator from Mac OS X 10.11
+Description: The Beach Ball loading indicator from Mac OS X
 Author: Andrew Hocking
 Depiction: http://ishqip.xyz/pages/elcapitanloadingindicator/index.html
 Name: El Capitan Loading Indicator
