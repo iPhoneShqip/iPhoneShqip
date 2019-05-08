@@ -1,17 +1,17 @@
 Package: com.anemonetheming.anemone
-Version: 2.1.8-1
+Version: 2.1.7-7
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 8312
+Installed-Size: 8411
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
 Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
-Filename: debs/com.anemonetheming.anemone_2.1.8-1.deb
-Size: 1868662
-MD5sum: ae3df40f3a84bc0b7b772b29769cc313
-SHA1: a82fc5f7db20432cc102b49694b3ab1c74ddb980
-SHA256: 92936976d7cd195a735049c72017c607b30ee33e97829e3dfce93376fe992ce8
+Filename: debs/com.anemonetheming.anemone_2.1.7-7.deb
+Size: 1878752
+MD5sum: 53eeeac1689942cc4c6b3d77d9908708
+SHA1: b015683e430c75e437cc9eacde62e176770811d2
+SHA256: c9a60e3f01a1b1fbe6ed8a208c66a8178cdf6ce40fa98ddeba29efa808db5b78
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
