@@ -1,119 +1,78 @@
 {
-    "minVersion":"0.1",
-    "headerImage":"",
-    "tintColor":"#000000",
-    "tabs":[
-       {
-          "tabname":"Details",
-          "views":[
-             {
-                "title":"androidlollipopstatusbar",
-                "useBoldText":true,
-                "useBottomMargin":false,
-                "class":"DepictionSubheaderView"
-             },
-             {
-                "itemCornerRadius":6,
-                "itemSize":"{160, 346.4533333333333}",
-                "screenshots":[
-                   {
-                      "accessibilityText":"Screenshot",
-                      "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                      "fullSizeURL":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
-                   },
-                   {
-                     "accessibilityText":"Screenshot",
-                     "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                     "fullSizeURL":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
-                   }
-                ],
-                "ipad":{
-                   "itemCornerRadius":9,
-                   "itemSize":"{320, 692.9066666666666}",
-                   "screenshots":[
-                     {
-                        "accessibilityText":"Screenshot",
-                        "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                        "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
-                     },
-                     {
-                       "accessibilityText":"Screenshot",
-                       "url":"http://ishqip.xyz/pages/androidlollipopstatusbar/screenshots.png",
-                       "fullSizeURL":"http://iphoneshqip.xyz/pages/androidlollipopstatusbar/screenshots.png"
-                     }
-                   ],
-                   "class":"DepictionScreenshotView"
+    "headerImage": "",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView",
+                    "title": "AndroidLollipopStatusBar",
+                    "useBottomMargin": false
                 },
-                "class":"DepictionScreenshotsView"
-             },
-             {
-                "markdown":"Remove the deprecated warning in Sileo when a package uses a standard web depiction",
-                "useSpacing":true,
-                "class":"DepictionMarkdownView"
-             },
-             {
-                "class":"DepictionSeparatorView"
-             },
-             {
-                "title":"Latest Version",
-                "class":"DepictionHeaderView"
-             },
-             {
-                "title":"Version",
-                "text":"1.0",
-                "class":"DepictionTableTextView"
-             },
-             {
-                "title":"Released",
-                "text":"2019-5-2",
-                "class":"DepictionTableTextView"
-             },
-             {
-                "title":"Price",
-                "text":"Free",
-                "class":"DepictionTableTextView"
-             },
-             {
-                "class":"DepictionSeparatorView"
-             },
-             {
-                "title":"Developer Website",
-                "action":"http://ishqip",
-                "class":"DepictionTableButtonView"
-             },
-             {
-                "spacing":12,
-                "class":"DepictionSpacerView"
-             },
-             {
-                "title":"Developer",
-                "text":"iSHQ!P",
-                "class":"DepictionTableTextView"
-             },
-             {
-                "title":"Contact Support",
-                "action":"depiction-https://ishqip/sileo/support.json",
-                "class":"DepictionTableButtonView"
-             },
-             {
-                "spacing":12,
-                "class":"DepictionSpacerView"
-             },
-             {
-                "URL":"http://ishqip.xyz/CydiaIcon.png",
-                "width":50,
-                "height":50,
-                "alignment":1,
-                "cornerRadius":0,
-                "class":"DepictionImageView"
-             },
-             {
-                "spacing":12,
-                "class":"DepictionSpacerView"
-             }
-          ],
-          "class":"DepictionStackView"
-       }
+                {
+                    "markdown": "Android Lollipop Status Bar",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "http://ishqip.xyz/pages/androidlollipopstatusbar/logo.png",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ],
+                    "itemCornerRadius": 6
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Android Lollipop Status Bar. Included Signal Bars & Wifi.",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "05-08-2019"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "ogshaun"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Details"
+        }
     ],
-    "class":"DepictionTabView"
- }
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1"
+}
