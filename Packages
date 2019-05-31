@@ -128,17 +128,17 @@ Depiction: http://ishqip.xyz/pages/brilliantdock/index.html
 Name: Brilliant Dock
 
 Package: ishqip.brilliantdockv2
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.brilliantdockv2.deb
-Size: 59758
-MD5sum: c5a6ebf1d406c06732e7ee760c568def
-SHA1: 1e477af5a2fa6651dc180a119e1cc47114ba44fb
-SHA256: 5048dd5bbbe419bca4c300ac91a889957f75c40766181e3d7181d23feeb7e09a
+Size: 77188
+MD5sum: 9090e6044c551ccc4bf50ad6f37000ab
+SHA1: 96d6aa9072ef8c214120607867d8ec2d5dc40627
+SHA256: 1c31a167ff648affbecbb47e39154097154558140806bb3a855a8b11c2a443ca
 Section: Themes (Dock)
 Description: Brilliant Dock version 2 for iPhone, iPad & iPod Touch.
-Depiction: http://ishqip.xyz/pages/brilliantdockv2/index.html
+Depiction: http://ishqip.xyz/pages/brilliantdockv2/index.php
 Name: Brilliant Dock v2
 
 Package: ishqip.classicdockforwinterboard
