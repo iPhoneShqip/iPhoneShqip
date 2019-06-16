@@ -44,15 +44,15 @@ Package: ishqip.attairdu57slm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Conflicts: com.att57anemonepack, com.att57anemonepack2, com.att57aepack3, com.att57aepack4
 Filename: debs/ishqip.attairdu57slm.deb
-Size: 5144336
-MD5sum: ded8df16eae64a64726ea1f5c41e36ac
-SHA1: 5a1518b128819c51528032560478de927bb5bb95
-SHA256: e62a10a13a3399a724ce48a3937a878726450ce14ad9862d448efcbc22685df9
+Size: 5144338
+MD5sum: a330030942ca706e1c19829f0e046e9f
+SHA1: 05cf91d9de6883953fc188be7a723ac91668c164
+SHA256: e6210fa090c71fe0be18ceaadfa974530e90aeb79cd2ce7d8229166ee0bcd7a5
 Section: Themes (Dock)
 Description: Attairdu57slm AE Pack 1 to 4 from REPO RKO1195 Fixed for iOS 11/12 by me @iPhShqip
 Author: Attair57 <Attair57@gmail.com>
-Conflict: com.att57anemonepack, com.att57anemonepack2, com.att57aepack3, com.att57aepack4
 Depiction: http://ishqip.xyz/pages/attairdu57slm/index.html
 Name: Attairdu57slm AE
 
