@@ -40,6 +40,22 @@ Depiction: http://ishqip.xyz/pages/androidlollipopstatusbar/index.html
 Name: Android Lollipop Status Bar
 Sileodepiction: https://ishqip.xyz/sileo/androidlollipopstatusbar.json
 
+Package: ishqip.attairdu57slm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.attairdu57slm.deb
+Size: 5144336
+MD5sum: ded8df16eae64a64726ea1f5c41e36ac
+SHA1: 5a1518b128819c51528032560478de927bb5bb95
+SHA256: e62a10a13a3399a724ce48a3937a878726450ce14ad9862d448efcbc22685df9
+Section: Themes (Dock)
+Description: Attairdu57slm AE Pack 1 to 4 from REPO RKO1195 Fixed for iOS 11/12 by me @iPhShqip
+Author: Attair57 <Attair57@gmail.com>
+Conflict: com.att57anemonepack, com.att57anemonepack2, com.att57aepack3, com.att57aepack4
+Depiction: http://ishqip.xyz/pages/attairdu57slm/index.html
+Name: Attairdu57slm AE
+
 Package: ishqip.avdesignsaepackallthemes
 Version: 1.0
 Architecture: iphoneos-arm
