@@ -24,6 +24,22 @@ Icon: file:///Applications/Anemone.app/icon.png
 Name: Anemone
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.macciti.nonflatforiconomatic
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Depends: winterboard
+Filename: debs/com.macciti.nonflatforiconomatic.deb
+Size: 65286
+MD5sum: b2f9427098c1cd037311ff7d675e4ce1
+SHA1: 463ae10f79f10f91e7bf5e2559cbefffccc123fe
+SHA256: 95f96e17e8849e997014cbb9cd72b822f1f5c248f18af44196cdcf8cdc368854
+Section: Addons
+Description: The nonFlat for iconOmatic.
+Author: Gary Cobb <geekstergary@gmail.com>
+Depiction: http://www.macciti.com/pages/nonflatforiconomatic/index.php
+Name: nonFlat for iconOmatic
+
 Package: ishqip.androidlollipopstatusbar
 Version: 1.0
 Architecture: iphoneos-arm
