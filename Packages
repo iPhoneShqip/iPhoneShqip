@@ -24,22 +24,6 @@ Icon: file:///Applications/Anemone.app/icon.png
 Name: Anemone
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.macciti.nonflatforiconomatic
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: iC <apt@macciti.com>
-Depends: winterboard
-Filename: debs/com.macciti.nonflatforiconomatic.deb
-Size: 65286
-MD5sum: b2f9427098c1cd037311ff7d675e4ce1
-SHA1: 463ae10f79f10f91e7bf5e2559cbefffccc123fe
-SHA256: 95f96e17e8849e997014cbb9cd72b822f1f5c248f18af44196cdcf8cdc368854
-Section: Addons
-Description: The nonFlat for iconOmatic.
-Author: Gary Cobb <geekstergary@gmail.com>
-Depiction: http://www.macciti.com/pages/nonflatforiconomatic/index.php
-Name: nonFlat for iconOmatic
-
 Package: ishqip.androidlollipopstatusbar
 Version: 1.0
 Architecture: iphoneos-arm
@@ -306,4 +290,19 @@ Section: Themes (Dock)
 Description: Elite 7 Dock for iOS 8/9/10
 Depiction: http://ishqip.xyz/pages/elite7dockforios8to12/index.html
 Name: Elite 7 Dock for iOS 8/9/10/11/12
+
+Package: ishqip.nonflatforiconomatic
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.nonflatforiconomatic.deb
+Size: 65278
+MD5sum: 904716d61f2a99cc0abfab587931b08f
+SHA1: a2b4af4d50e8302b8ec14b820ceda76ab035f8ba
+SHA256: 3cdc46c5d8e1957848539071d5236a6578cf5551295fd97c3ed4012dd22573b3
+Section: Addons
+Description: The nonFlat for iconOmatic.
+Author: Gary Cobb <geekstergary@gmail.com>
+Depiction: http://ishqip.xyz/pages/nonflatforiconomatic/index.html
+Name: nonFlat for iconOmatic
 
