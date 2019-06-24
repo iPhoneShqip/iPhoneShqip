@@ -41,34 +41,34 @@ Name: Android Lollipop Status Bar
 Sileodepiction: https://ishqip.xyz/sileo/androidlollipopstatusbar.json
 
 Package: ishqip.att57simpleios
-Version: 1.0-1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Conflicts: com.att57simpleios
 Filename: debs/ishqip.att57simpleios.deb
-Size: 633558
-MD5sum: e96654530a82709e0536c8c20cc91b06
-SHA1: 712cec7551a5fa2e22cf6f62f32e5bd01b8259a0
-SHA256: 2f27f1002f67d3e725faf148a4ca6076614f977e024924c958de63f7445e75d1
+Size: 633556
+MD5sum: 518244e52f5262f367f296d1b8299980
+SHA1: 34e416b46e91b9b63bca7a5b4bca846f323d7299
+SHA256: 4b3b9dcf4dadc1237303f35053e1df104d5dc8de6f22430a008896d263fae5ec
 Section: Themes
 Description: SimpleiOS IconOmatic 2 by Attair57.
 Author: Attair57 <Attair57@gmail.com>
-Conflict: com.att57simpleios
 Depiction: http://ishqip.xyz/pages/att57simpleios/index.html
 Name: Att57  SimpleiOS IconO 2
 
 Package: ishqip.attairdu57slm
-Version: 1.0-1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Conflicts: com.att57anemonepack, com.att57anemonepack2, com.att57aepack3, com.att57aepack4
 Filename: debs/ishqip.attairdu57slm.deb
-Size: 5144524
-MD5sum: cf7b092cd746889f2053c74310449a97
-SHA1: a3810052ab780072c3c989d3c3fb28c6ce6f1015
-SHA256: 0362c3537a79aba5086b8032598ff209ae98827c50665e107e9aa3014185c7fa
+Size: 5144522
+MD5sum: d3a3ff0423154e0b6a52476573f1e40f
+SHA1: f752d47d4f07a9b2840bb7db2a83449a4bfe7beb
+SHA256: b798520aafc9da672e7f8ab495b968daba37865cc06274985c43e7799e84e616
 Section: Themes
 Description: Attairdu57slm AE Pack 1 to 4 from REPO RKO1195 Fixed for iOS 11/12 by me @iPhShqip
 Author: Attair57 <Attair57@gmail.com>
-Conflict: com.att57anemonepack, com.att57anemonepack2, com.att57aepack3, com.att57aepack4
 Depiction: http://ishqip.xyz/pages/attairdu57slm/index.html
 Name: Attairdu57slm AE
 
