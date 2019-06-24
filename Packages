@@ -40,6 +40,21 @@ Depiction: http://ishqip.xyz/pages/androidlollipopstatusbar/index.html
 Name: Android Lollipop Status Bar
 Sileodepiction: https://ishqip.xyz/sileo/androidlollipopstatusbar.json
 
+Package: ishqip.att57simpleios
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.att57simpleios.deb
+Size: 633558
+MD5sum: a763b00bbccfb1c3c4b64d64333b80f9
+SHA1: a8c2e062347b9178f41e14b2baa1876a533e539e
+SHA256: 3795d0e86d47ae32a7719e169356edb6e17ab81914e044f91a441613f40cabb4
+Section: Themes
+Description: SimpleiOS IconOmatic 2 by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://ishqip.xyz/pages/att57simpleios/index.html
+Name: Att57  SimpleiOS IconO 2
+
 Package: ishqip.attairdu57slm
 Version: 1.0
 Architecture: iphoneos-arm
