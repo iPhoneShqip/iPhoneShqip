@@ -322,3 +322,18 @@ Author: Gary Cobb <geekstergary@gmail.com>
 Depiction: http://ishqip.xyz/pages/nonflatforiconomatic/index.html
 Name: nonFlat for iconOmatic
 
+Package: ishqip.wallpaperspack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Depends: mobilesubstrate, wallpaperloader
+Filename: debs/ishqip.wallpaperspack.deb
+Size: 1042416
+MD5sum: ecb07cd972565d7c358e1808767f3269
+SHA1: d6b5ace05196f4a21006856a5ed04bd838d72ef7
+SHA256: 99347a61edd8a84bb2672ceb7bf95e3a64bcd2438c94322b62d103d0509bdea7
+Section: Wallpapers
+Homepage: https://twitter.com/iPhShqip
+Description: Wallpaper Dark/Light Pack for iOS 13
+Name: Wallpaper Dark/Light Pack
+
