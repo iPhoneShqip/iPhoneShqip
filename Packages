@@ -328,10 +328,10 @@ Architecture: iphoneos-arm
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Depends: mobilesubstrate, wallpaperloader
 Filename: debs/ishqip.wallpaperspack.deb
-Size: 1042422
-MD5sum: e9b19ec2fee8120f8fba9b6d3635598f
-SHA1: 8a94104c2c23acafa85d6bb5af5635af45b0fb0c
-SHA256: e6024236e363e90788d34a270b2ae1124f8210c3a1f928c350ff57daf58a4da7
+Size: 794384
+MD5sum: 0491c01426927e00abf471c44b51e789
+SHA1: c9c88e0c1f3aa826fffdd5f9ce3c21b85f10e016
+SHA256: 8baf552fcee4f1159d265e1114dd1e716f7b6b72a5f38e64e0f6b5848c453fa4
 Section: Wallpapers
 Homepage: https://twitter.com/iPhShqip
 Description: Wallpapers Light/Dark Pack for iOS 13
