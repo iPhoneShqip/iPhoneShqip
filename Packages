@@ -24,6 +24,21 @@ Icon: file:///Applications/Anemone.app/icon.png
 Name: Anemone
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.frenchitouch.iVent
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iphonactu
+Filename: debs/com.frenchitouch.iVent.deb
+Size: 40390948
+MD5sum: 616d3815d2ea5811e354792d27303e8d
+SHA1: 8aa57ee0b863484aa48bcebdfad5ed661e42ae3d
+SHA256: 1d9db81ac2f6573e2e8e7ac8a808387b20a476e50866c64524bc791aedc3ffbf
+Section: Themes
+Homepage: https://twitter.com/frenchitouch
+Description: iVent un superbe theme réaliser par frenchitouch et contient 350 icones
+Author: frenchitouch
+Name: iVent
+
 Package: ishqip.androidlollipopstatusbar
 Version: 1.0
 Architecture: iphoneos-arm
