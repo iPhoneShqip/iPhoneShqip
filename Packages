@@ -27,16 +27,16 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.frenchitouch.iVent
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: iphonactu
+Maintainer: iPhonactu <>
 Filename: debs/com.frenchitouch.iVent.deb
-Size: 40390948
-MD5sum: 616d3815d2ea5811e354792d27303e8d
-SHA1: 8aa57ee0b863484aa48bcebdfad5ed661e42ae3d
-SHA256: 1d9db81ac2f6573e2e8e7ac8a808387b20a476e50866c64524bc791aedc3ffbf
-Section: Themes
+Size: 40381532
+MD5sum: dfe4fefdaedac17cb0283f87f4c1215c
+SHA1: 7b3d96ad2caaf36878969bfce72aab8f651c3b37
+SHA256: f93fb3389107352063cbcb2d175dd63668bb5a49344ba359697cb614c00523fd
+Section: Themes (SpringBoard)
 Homepage: https://twitter.com/frenchitouch
-Description: iVent un superbe theme réaliser par frenchitouch et contient 350 icones
-Author: frenchitouch
+Description: iVent un superbe theme rÃ©aliser par frenchitouch et contient 350 icones
+Author: Frenchitouch <frenchitouch@gmail.com>
 Name: iVent
 
 Package: ishqip.androidlollipopstatusbar
