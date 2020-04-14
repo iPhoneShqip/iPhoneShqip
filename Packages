@@ -307,6 +307,38 @@ Description: Elite 7 Dock for iOS 8/9/10
 Depiction: http://ishqip.xyz/pages/elite7dockforios8to12/index.html
 Name: Elite 7 Dock for iOS 8/9/10/11/12
 
+Package: ishqip.hatiato.goldv2hdblack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.hatiato.goldv2hdblack.deb
+Size: 29150050
+MD5sum: e02dbae090c753a91c18daeebd93f03b
+SHA1: c4cece0321abe4e42f0bb7951f6c35bfb390f800
+SHA256: f675e9dbf168907be591c56a97403825abcef8d328b306bee7656603f57f6ae0
+Section: Themes (SpringBoard)
+Homepage: https://twitter.com/‪hakun49‬
+Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Author: HaTiaTo <giangiosvn@gmail.com>
+Icon: file:///Library/Themes/Gold V2 HD Black.theme/Icon.png
+Name: Gold V2 HD Black
+
+Package: ishqip.hatiato.goldv2hdwhite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Filename: debs/ishqip.hatiato.goldv2hdwhite.deb
+Size: 23852220
+MD5sum: 3f66dcd26be3fc639ab4ccd59ace7a6b
+SHA1: a2d194c3e2d51ed171e5db4185452da565f69eb4
+SHA256: fab0bc7c0492581fe4db0130ef882f4fdb1198f72007d75c3316471a33aba974
+Section: Themes (SpringBoard)
+Homepage: https://twitter.com/‪hakun49‬
+Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Author: HaTiaTo <giangiosvn@gmail.com>
+Icon: file:///Library/Themes/Gold V2 HD White.theme/Icon.png
+Name: Gold V2 HD White
+
 Package: ishqip.nonflatforiconomatic
 Version: 1.0-1
 Architecture: iphoneos-arm
