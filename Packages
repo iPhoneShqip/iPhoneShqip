@@ -312,14 +312,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.hatiato.goldv2hdblack.deb
-Size: 18874502
-MD5sum: a152fdeb9c4e3501e744594db0927846
-SHA1: 7b12d332ef55c42571d706027fca9009fab97e73
-SHA256: 0cb27b7728a0d6d2ade8a2a801b2ba7815b231ae0336eb2a0e29bb0639e2df97
+Size: 18874528
+MD5sum: 2e5e7d7fc1c08bbf57bba59783234ee8
+SHA1: 5467627f5182ee4834084749d862eaf61acd7136
+SHA256: 39c37d23ebfffa7b19c862e27a162a1ceb0a044824d9758cad7f54621f9ea811
 Section: Themes (SpringBoard)
 Homepage: https://twitter.com/hakun49
 Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
 Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
 Icon: file:///Library/Themes/Gold V2 HD Black.theme/Icon.png
 Name: Gold V2 HD Black
 
@@ -328,14 +329,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.hatiato.goldv2hdwhite.deb
-Size: 15691452
-MD5sum: 58fd496e75a24dc9bda89c2d3700aa89
-SHA1: db9b7b14ecf1eefb16698ea0e046933eb52e1b7d
-SHA256: e4d72f71bc46e72b8e92b8d4ca1e4bffbb8bb615f5b4581a51f1324e7e0f41d9
+Size: 15691484
+MD5sum: 5d4cb9aca2fbf53bee067041509a98d6
+SHA1: 03799b6998d816e2939f101891f777f8489b5966
+SHA256: 671d7ee4d2ecb381d10929dadbeed7a2612a04f12f1ccc7c9bc35614c3bf12f5
 Section: Themes (SpringBoard)
 Homepage: https://twitter.com/hakun49
 Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
 Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
 Icon: file:///Library/Themes/Gold V2 HD White.theme/Icon.png
 Name: Gold V2 HD White
 
