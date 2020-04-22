@@ -308,14 +308,14 @@ Depiction: http://ishqip.xyz/pages/elite7dockforios8to12/index.html
 Name: Elite 7 Dock for iOS 8/9/10/11/12
 
 Package: ishqip.hatiato.goldv2hdblack
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.hatiato.goldv2hdblack.deb
-Size: 18874528
-MD5sum: 2e5e7d7fc1c08bbf57bba59783234ee8
-SHA1: 5467627f5182ee4834084749d862eaf61acd7136
-SHA256: 39c37d23ebfffa7b19c862e27a162a1ceb0a044824d9758cad7f54621f9ea811
+Size: 22420462
+MD5sum: 4e124f1b77f6e33c5fcbadb750977c31
+SHA1: c5bc8fe7dddb72e61349c186206f7f5308d11c04
+SHA256: b2765dd71ca3452f530429968e7a092f48c081b402f011ab160605b0e61e387a
 Section: Themes (SpringBoard)
 Homepage: https://twitter.com/hakun49
 Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
@@ -325,14 +325,14 @@ Icon: file:///Library/Themes/Gold V2 HD Black.theme/Icon.png
 Name: Gold V2 HD Black
 
 Package: ishqip.hatiato.goldv2hdwhite
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Filename: debs/ishqip.hatiato.goldv2hdwhite.deb
-Size: 15691484
-MD5sum: 5d4cb9aca2fbf53bee067041509a98d6
-SHA1: 03799b6998d816e2939f101891f777f8489b5966
-SHA256: 671d7ee4d2ecb381d10929dadbeed7a2612a04f12f1ccc7c9bc35614c3bf12f5
+Size: 18866378
+MD5sum: f5c853f93976ed11f1e137854d756775
+SHA1: 262edc9ed3d8373b314c4706d60359388a352b69
+SHA256: d127f20ea28360e1460f94fe9ab2c359b53dbab0486dff6e2d5c9ff5e3754962
 Section: Themes (SpringBoard)
 Homepage: https://twitter.com/hakun49
 Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
