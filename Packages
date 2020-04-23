@@ -285,8 +285,8 @@ Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
 Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.0-1.deb
-Size: 22420464
-MD5sum: ab9de91dbe96c11041012c25ed54bfbe
+Size: 22420494
+MD5sum: f593a6635ec1a21d8f571ac43605c07d
 
 Package: ishqip.hatiato.goldv2hdwhite
 Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
@@ -313,8 +313,8 @@ Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
 Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.0-1.deb
-Size: 18866368
-MD5sum: fca8e259be3e2ac8b7d9a269e9241ad5
+Size: 18866384
+MD5sum: daa08826504b5c8556e263aa9d94c71a
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
