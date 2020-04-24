@@ -261,7 +261,7 @@ Size: 1292508
 MD5sum: 76b5a10f4e5f8c49740a5ea890a87096
 
 Package: ishqip.hatiato.goldv2hdblack
-Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Description: Beautiful set of themes with the main color is Gold and Black by: @hakun49
 Version: 1.0
 Name: Gold V2 HD Black
 Section: Themes (SpringBoard)
@@ -271,11 +271,11 @@ Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
 Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.0.deb
-Size: 18912856
-MD5sum: 81b26b2d70d0d2ae7c8e32c8ba33e56d
+Size: 18912862
+MD5sum: a74b85819bce7867ae6b538d02dd859a
 
 Package: ishqip.hatiato.goldv2hdblack
-Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Description: Beautiful set of themes with the main color is Gold and Black by: @hakun49
 Version: 1.0-1
 Name: Gold V2 HD Black
 Section: Themes (SpringBoard)
@@ -285,11 +285,11 @@ Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
 Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.0-1.deb
-Size: 22460042
-MD5sum: 92bf166db0fd2e3bd400194b9cc92e98
+Size: 22460050
+MD5sum: 948cfaeadd3634898c1b532a0866ae29
 
 Package: ishqip.hatiato.goldv2hdwhite
-Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Description: Beautiful set of themes with the main color is Gold and White by: @hakun49
 Version: 1.0
 Name: Gold V2 HD White
 Section: Themes (SpringBoard)
@@ -299,11 +299,11 @@ Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
 Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.0.deb
-Size: 15689822
-MD5sum: 9d2e3c368d71df311d4001a92cbecb53
+Size: 15689828
+MD5sum: e919fe39148f1707ea0d20c7041ee431
 
 Package: ishqip.hatiato.goldv2hdwhite
-Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Description: Beautiful set of themes with the main color is Gold and White by: @hakun49
 Version: 1.0-1
 Name: Gold V2 HD White
 Section: Themes (SpringBoard)
@@ -313,8 +313,8 @@ Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
 Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.0-1.deb
-Size: 18905474
-MD5sum: b21a29987763c7aa5807e1f5ef2b7dbf
+Size: 18905482
+MD5sum: 876422dccdad29e23d2d6bdbe4a68c75
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
