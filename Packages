@@ -260,6 +260,62 @@ Filename: ./debs/ishqip.elite7dockforios8to12.deb
 Size: 1292508
 MD5sum: 76b5a10f4e5f8c49740a5ea890a87096
 
+Package: ishqip.hatiato.goldv2hdblack
+Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Version: 1.0
+Name: Gold V2 HD Black
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.0.deb
+Size: 18912920
+MD5sum: fdafcfd8ddad88133b3602849ccb4019
+
+Package: ishqip.hatiato.goldv2hdblack
+Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Version: 1.0-1
+Name: Gold V2 HD Black
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.0-1.deb
+Size: 22460202
+MD5sum: 6df0560b2d4f72e150a6f7ece10b6431
+
+Package: ishqip.hatiato.goldv2hdwhite
+Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Version: 1.0
+Name: Gold V2 HD White
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.0.deb
+Size: 15689836
+MD5sum: 974f8cb7a8fe58db47ac317f21c156b5
+
+Package: ishqip.hatiato.goldv2hdwhite
+Description: Theme for iThemer & Snowboard iOS 13 by @hakun49 (Twitter
+Version: 1.0-1
+Name: Gold V2 HD White
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.0-1.deb
+Size: 18905722
+MD5sum: 37422f867e2294930f95b721acc43c35
+
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
 Version: 1.0-1
