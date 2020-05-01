@@ -260,6 +260,90 @@ Filename: ./debs/ishqip.elite7dockforios8to12.deb
 Size: 1292508
 MD5sum: 76b5a10f4e5f8c49740a5ea890a87096
 
+Package: ishqip.hatiato.goldv2hdblack
+Description: Beautiful set of themes with the main color is Gold and Black by: @hakun49
+Version: 1.0
+Name: Gold V2 HD Black
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.0.deb
+Size: 20683152
+MD5sum: 5176571999a4d42d66225ecc8d8f89bf
+
+Package: ishqip.hatiato.goldv2hdblack
+Description: Beautiful set of themes with the main color is Gold and Black by: @hakun49
+Version: 1.1
+Name: Gold V2 HD Black
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.1.deb
+Size: 24131070
+MD5sum: 0e3b75a67d84bb59bd620348c178d953
+
+Package: ishqip.hatiato.goldv2hdblack
+Description: Beautiful set of themes with the main color is Gold and Black by: @hakun49
+Version: 1.2
+Name: Gold V2 HD Black
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdblack/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdblack.v1.2.deb
+Size: 31624570
+MD5sum: 07d02fdab0cd5342a78df7be12ba65f2
+
+Package: ishqip.hatiato.goldv2hdwhite
+Description: Beautiful set of themes with the main color is Gold and White by: @hakun49
+Version: 1.0
+Name: Gold V2 HD White
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.0.deb
+Size: 17354210
+MD5sum: 5d6e1ea3e092a5b5173b0f7e70ebbb4d
+
+Package: ishqip.hatiato.goldv2hdwhite
+Description: Beautiful set of themes with the main color is Gold and White by: @hakun49
+Version: 1.1
+Name: Gold V2 HD White
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.1.deb
+Size: 20649962
+MD5sum: 12ed7eac63566f406c73228d45a6d5bc
+
+Package: ishqip.hatiato.goldv2hdwhite
+Description: Beautiful set of themes with the main color is Gold and White by: @hakun49
+Version: 1.2
+Name: Gold V2 HD White
+Section: Themes (SpringBoard)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: HaTiaTo <giangiosvn@gmail.com>
+Depiction: http://ishqip.xyz/pages/hatiato.goldv2hdwhite/index.html
+Homepage: https://twitter.com/hakun49
+Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.2.deb
+Size: 29638240
+MD5sum: 49ed6b30e94750b7f2ce75cfa95ad215
+
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
 Version: 1.0-1
