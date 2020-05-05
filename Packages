@@ -1,6 +1,6 @@
 Package: anondev.localiapstore
 Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
-Version: 1.4-2
+Version: 1.4-1
 Name: LocalIAPStore
 Section: Tweaks
 Maintainer: CydiaShqip <CydiaShqip@hotmail.com>
@@ -11,7 +11,7 @@ developer servers,in-appstore.com DNS needed). 64bit compatible
 dev
 Filename: ./debs/anondev.localiapstore.deb
 Size: 70962
-MD5sum: cbeb2e831621d8af7f7e9fda21615267
+MD5sum: 118ae52f0fc6c2a5d9729d718b77ac02
 
 Package: com.anemonetheming.anemone
 Description: An awesome theme manager!
