@@ -31,6 +31,30 @@ Filename: ./debs/com.anemonetheming.anemone_2.1.7-7.deb
 Size: 1878752
 MD5sum: 53eeeac1689942cc4c6b3d77d9908708
 
+Package: com.Polyphian.Modern13
+Description: A continuation of Modern12 icon theme by @Xeviks
+Version: 1.6-1
+Name: Modern13
+Section: Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian & Xeviks
+Filename: ./debs/com.Polyphian.Modern13.deb
+Size: 67389742
+MD5sum: 6614b9166b1ab3f58491971f4c30004d
+
+Package: com.Polyphian.Modern13S
+Description: Icon Effects (Shadows)
+Version: 1.0-1
+Name: Modern13 Shadows
+Section: Icon Effects
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/com.Polyphian.Modern13S.deb
+Size: 792242
+MD5sum: 332d03550deed60e9d13836e15f67973
+
 Package: com.rpetrich.videopace
 Description: Increase speed of video playback
 Version: 1.1.2
