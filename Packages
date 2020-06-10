@@ -13,24 +13,6 @@ Filename: ./debs/anondev.localiapstore.deb
 Size: 70962
 MD5sum: 118ae52f0fc6c2a5d9729d718b77ac02
 
-Package: com.anemonetheming.anemone
-Description: An awesome theme manager!
-Version: 2.1.7-7
-Name: Anemone
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Architecture: iphoneos-arm
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
-Author: AnemoneTeam <anemonetheming@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
-Installed-Size: 8411
-dev: anemonetheming
-Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Filename: ./debs/com.anemonetheming.anemone_2.1.7-7.deb
-Size: 1878752
-MD5sum: 53eeeac1689942cc4c6b3d77d9908708
-
 Package: com.rpetrich.videopace
 Description: Increase speed of video playback
 Version: 1.1.2
