@@ -1,18 +1,3 @@
-Package: anondev.localiapstore
-Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
-Version: 1.4-1
-Name: LocalIAPStore
-Section: Tweaks
-Maintainer: CydiaShqip <CydiaShqip@hotmail.com>
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Author: anondev
-developer servers,in-appstore.com DNS needed). 64bit compatible
-dev
-Filename: ./debs/anondev.localiapstore.deb
-Size: 70962
-MD5sum: 118ae52f0fc6c2a5d9729d718b77ac02
-
 Package: com.rpetrich.videopace
 Description: Increase speed of video playback
 Version: 1.1.2
