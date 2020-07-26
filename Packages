@@ -53,6 +53,20 @@ Filename: ./debs/ishqip.attairdu57slm.deb
 Size: 5144522
 MD5sum: d3a3ff0423154e0b6a52476573f1e40f
 
+Package: ishqip.attairdu57slmdocks
+Description: Attairdu57slm Docks 2020 for 7/8/9/10/11/12/13
+Version: 1.0
+Name: Attairdu57slm Docks
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/attairdu57slmdocks/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.attairdu57slmdocks.deb
+Size: 135198
+MD5sum: 21dfa397e5c6fe510c4cd5bb7b77eb37
+
 Package: ishqip.avdesignsaepackallthemes
 Description: AE Pack from AVDESIGNS for All Themes
 Version: 1.0
