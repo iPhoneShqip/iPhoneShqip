@@ -25,20 +25,6 @@ Filename: ./debs/ishqip.androidlollipopstatusbar.deb
 Size: 9652
 MD5sum: c9b95828821aa28b88f180b43eb5b7d5
 
-Package: ishqip.att57simpleios
-Description: SimpleiOS IconOmatic 2 by Attair57.
-Version: 1.0
-Name: Att57  SimpleiOS IconO 2
-Section: Themes
-Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
-Architecture: iphoneos-arm
-Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/att57simpleios/index.html
-Conflicts: com.att57simpleios
-Filename: ./debs/ishqip.att57simpleios.deb
-Size: 633556
-MD5sum: 518244e52f5262f367f296d1b8299980
-
 Package: ishqip.attairdu57slmae
 Description: Attairdu57slm AE Pack 1 to 4 from REPO RKO1195 Fixed for iOS 11/12 by me @iPhShqip
 Version: 1.0
@@ -66,6 +52,20 @@ Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.attairdu57slmdocks2020.deb
 Size: 1249620
 MD5sum: bf2703a2ff9ea2a43e7d3afcdd122c35
+
+Package: ishqip.attairdu57slmsimpleios
+Description: SimpleiOS AE 2 by: Attairdu57slm
+Version: 1.0
+Name: Attairdu57slms SimpleiOS AE 2
+Section: Themes
+Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/attairdu57slmsimpleios/index.html
+Conflicts: com.att57simpleios
+Filename: ./debs/ishqip.attairdu57slmsimpleios.deb
+Size: 633566
+MD5sum: 063ea207c4e1735d0935cfcd2238a268
 
 Package: ishqip.avdesignsaepackallthemes
 Description: AE Pack from AVDESIGNS for All Themes
