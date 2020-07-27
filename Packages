@@ -39,7 +39,7 @@ Filename: ./debs/ishqip.att57simpleios.deb
 Size: 633556
 MD5sum: 518244e52f5262f367f296d1b8299980
 
-Package: ishqip.attairdu57slm
+Package: ishqip.attairdu57slmae
 Description: Attairdu57slm AE Pack 1 to 4 from REPO RKO1195 Fixed for iOS 11/12 by me @iPhShqip
 Version: 1.0
 Name: Attairdu57slm AE
@@ -47,11 +47,11 @@ Section: Themes
 Maintainer: iSHQ!P <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
 Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/attairdu57slm/index.html
+Depiction: http://ishqip.xyz/pages/attairdu57slmae/index.html
 Conflicts: com.att57anemonepack, com.att57anemonepack2, com.att57aepack3, com.att57aepack4
-Filename: ./debs/ishqip.attairdu57slm.deb
-Size: 5144522
-MD5sum: d3a3ff0423154e0b6a52476573f1e40f
+Filename: ./debs/ishqip.attairdu57slmae.deb
+Size: 5144552
+MD5sum: c2f2b9cd8558d15970c9e7af4f46e816
 
 Package: ishqip.attairdu57slmdocks2020
 Description: Attairdu57slm Docks 2020 for iOS 7/8/9/10/11/12/13
