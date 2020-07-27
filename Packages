@@ -380,3 +380,17 @@ Filename: ./debs/ishqip.wallpaperspack.deb
 Size: 794384
 MD5sum: 0491c01426927e00abf471c44b51e789
 
+Package: ishqip.zooropalgdock
+Description: Zooropalg Docks 2020 for 7/8/9/10/11/12/13
+Version: 1.0
+Name: Zooropalgâ?¬docks Dock
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Zooropalg <laugend2@gmail.com>
+Depiction: http://ishqip.xyz/pages/zooropalgdocks/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.zooropalgdock.deb
+Size: 2890278
+MD5sum: 3b00641516bfa5632094ee6c39641a04
+
