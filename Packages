@@ -53,6 +53,20 @@ Filename: ./debs/ishqip.attairdu57slmdocks2020.deb
 Size: 1249620
 MD5sum: bf2703a2ff9ea2a43e7d3afcdd122c35
 
+Package: ishqip.attairdu57slml3tofreemodd
+Description: Attairdu57slm L3TO Free Modd for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: Attairdu57slm L3TO Free Modd
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/attairdu57slml3tofreemodd/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.attairdu57slml3tofreemodd.deb
+Size: 1714080
+MD5sum: fadba6752cd27bd03932bc6b32a19b54
+
 Package: ishqip.attairdu57slmsimpleios
 Description: SimpleiOS AE 2 by: Attairdu57slm
 Version: 1.0
@@ -353,6 +367,34 @@ Homepage: https://twitter.com/hakun49
 Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.2.deb
 Size: 29638240
 MD5sum: 49ed6b30e94750b7f2ce75cfa95ad215
+
+Package: ishqip.ig0rae
+Description: ig0r AE for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: ig0r AE
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/ig0rae/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.ig0rae.deb
+Size: 20256
+MD5sum: 15f13c5dcefae10fd8928c6396e10919
+
+Package: ishqip.ig0rdocks
+Description: ig0r Docks for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: ig0r Docks
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/ig0rdocks/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.ig0rdocks.deb
+Size: 2047154
+MD5sum: f86cae72eca6ad736c8c229a07d83e02
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
