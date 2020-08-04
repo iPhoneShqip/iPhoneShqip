@@ -379,8 +379,8 @@ Author: Attair57 <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/mef3579ae/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579ae.deb
-Size: 20264
-MD5sum: f5d3dbb76d0a68fb784faf69a2bb6fa7
+Size: 20334
+MD5sum: 1b75add5c8d370f48666e1ac80afd924
 
 Package: ishqip.mef3579docks
 Description: mef3579 Docks for iOS 7/8/9/10/11/12/13
@@ -393,8 +393,8 @@ Author: Attair57 <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/mef3579docks/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579docks.deb
-Size: 2047174
-MD5sum: 72ff920bb94fee5e36d4d00f5f0f9e83
+Size: 2047196
+MD5sum: 5ca743640ca88ce3b6a9e8db7cdc0bd7
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
