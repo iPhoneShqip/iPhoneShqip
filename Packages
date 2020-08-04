@@ -368,33 +368,33 @@ Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.2.deb
 Size: 29638240
 MD5sum: 49ed6b30e94750b7f2ce75cfa95ad215
 
-Package: ishqip.ig0rae
-Description: ig0r AE for iOS 7/8/9/10/11/12/13
+Package: ishqip.mef3579ae
+Description: mef3579 AE for iOS 7/8/9/10/11/12/13
 Version: 1.0
-Name: ig0r AE
+Name: mef3579 AE
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
 Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/ig0rae/index.html
+Depiction: http://ishqip.xyz/pages/mef3579ae/index.html
 Homepage: https://twitter.com/iPhShqip
-Filename: ./debs/ishqip.ig0rae.deb
-Size: 20260
-MD5sum: d26394cf6e644ced97eaddcd6c400c76
+Filename: ./debs/ishqip.mef3579ae.deb
+Size: 20264
+MD5sum: f5d3dbb76d0a68fb784faf69a2bb6fa7
 
-Package: ishqip.ig0rdocks
-Description: ig0r Docks for iOS 7/8/9/10/11/12/13
+Package: ishqip.mef3579docks
+Description: mef3579 Docks for iOS 7/8/9/10/11/12/13
 Version: 1.0
-Name: ig0r Docks
+Name: mef3579 Docks
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
 Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/ig0rdocks/index.html
+Depiction: http://ishqip.xyz/pages/mef3579docks/index.html
 Homepage: https://twitter.com/iPhShqip
-Filename: ./debs/ishqip.ig0rdocks.deb
-Size: 2047154
-MD5sum: f86cae72eca6ad736c8c229a07d83e02
+Filename: ./debs/ishqip.mef3579docks.deb
+Size: 2047174
+MD5sum: 72ff920bb94fee5e36d4d00f5f0f9e83
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
