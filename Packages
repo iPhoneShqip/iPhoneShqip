@@ -55,7 +55,7 @@ MD5sum: bf2703a2ff9ea2a43e7d3afcdd122c35
 
 Package: ishqip.attairdu57slml3tofreemodd
 Description: Attairdu57slm L3TO Free Modd for iOS 7/8/9/10/11/12/13
-Version: 1.0
+Version: 1.0-1
 Name: Attairdu57slm L3TO Free Modd
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
@@ -64,8 +64,8 @@ Author: Attair57 <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/attairdu57slml3tofreemodd/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.attairdu57slml3tofreemodd.deb
-Size: 1714080
-MD5sum: fadba6752cd27bd03932bc6b32a19b54
+Size: 2398506
+MD5sum: 0fff007456950e0a25e68c072095a080
 
 Package: ishqip.attairdu57slmsimpleios
 Description: SimpleiOS AE 2 by: Attairdu57slm
