@@ -347,12 +347,12 @@ Name: L3TO Free Docks
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Author: Attair57 & Mtk Design <Attair57@gmail.com>
+Author: Attair57 & MtK Design <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/l3tofreedocks/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.l3tofreedocks.deb
 Size: 2231682
-MD5sum: 1854ea2a34c6d99ce15557ded1b1abbf
+MD5sum: f611188740ef7a3d078c7e1206afe975
 
 Package: ishqip.l3tofreeiconOs
 Description: Attairdu57slm & MtK Design L3TO Free iconOs for iOS 7/8/9/10/11/12/13
@@ -361,12 +361,12 @@ Name: L3TO Free iconOs
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Author: Attair57 & Mtk Design <Attair57@gmail.com>
+Author: Attair57 & MtK Design <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/l3tofreeiconOs/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.l3tofreeiconOs.deb
-Size: 1415888
-MD5sum: bccbf97b442938ea090587e3bb322009
+Size: 1415884
+MD5sum: cf78142d10c51d4a6be235b686c88b63
 
 Package: ishqip.mef3579docks
 Description: mef3579 Docks for iOS 7/8/9/10/11/12/13
