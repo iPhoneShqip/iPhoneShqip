@@ -39,34 +39,6 @@ Filename: ./debs/ishqip.attairdu57slmae.deb
 Size: 5144552
 MD5sum: c2f2b9cd8558d15970c9e7af4f46e816
 
-Package: ishqip.attairdu57slmdocks2020
-Description: Attairdu57slm Docks 2020 for iOS 7/8/9/10/11/12/13
-Version: 1.0
-Name: Attairdu57slm Docks 2020
-Section: Themes (Docks)
-Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
-Architecture: iphoneos-arm
-Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/attairdu57slmdocks2020/index.html
-Homepage: https://twitter.com/iPhShqip
-Filename: ./debs/ishqip.attairdu57slmdocks2020.deb
-Size: 1249620
-MD5sum: bf2703a2ff9ea2a43e7d3afcdd122c35
-
-Package: ishqip.attairdu57slml3tofreemodd
-Description: Attairdu57slm L3TO Free Modd for iOS 7/8/9/10/11/12/13
-Version: 1.0-1
-Name: Attairdu57slm L3TO Free Modd
-Section: Themes (Docks)
-Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
-Architecture: iphoneos-arm
-Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/attairdu57slml3tofreemodd/index.html
-Homepage: https://twitter.com/iPhShqip
-Filename: ./debs/ishqip.attairdu57slml3tofreemodd.deb
-Size: 2398506
-MD5sum: 0fff007456950e0a25e68c072095a080
-
 Package: ishqip.attairdu57slmsimpleios
 Description: SimpleiOS AE 2 by: Attairdu57slm
 Version: 1.0
@@ -368,19 +340,33 @@ Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.2.deb
 Size: 29638240
 MD5sum: 49ed6b30e94750b7f2ce75cfa95ad215
 
-Package: ishqip.mef3579ae
-Description: mef3579 AE for iOS 7/8/9/10/11/12/13
+Package: ishqip.l3tofreedocks
+Description: Attairdu57slm & MtK Design L3TO Free Docks for iOS 7/8/9/10/11/12/13
 Version: 1.0
-Name: mef3579 AE
+Name: L3TO Free Docks
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Author: Attair57 <Attair57@gmail.com>
-Depiction: http://ishqip.xyz/pages/mef3579ae/index.html
+Author: Attair57 & Mtk Design <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/l3tofreedocks/index.html
 Homepage: https://twitter.com/iPhShqip
-Filename: ./debs/ishqip.mef3579ae.deb
-Size: 20334
-MD5sum: 1b75add5c8d370f48666e1ac80afd924
+Filename: ./debs/ishqip.l3tofreedocks.deb
+Size: 2231682
+MD5sum: 1854ea2a34c6d99ce15557ded1b1abbf
+
+Package: ishqip.l3tofreeiconOs
+Description: Attairdu57slm & MtK Design L3TO Free iconOs for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: L3TO Free iconOs
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 & Mtk Design <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/l3tofreeiconOs/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.l3tofreeiconOs.deb
+Size: 1415888
+MD5sum: bccbf97b442938ea090587e3bb322009
 
 Package: ishqip.mef3579docks
 Description: mef3579 Docks for iOS 7/8/9/10/11/12/13
@@ -389,12 +375,26 @@ Name: mef3579 Docks
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
-Author: Attair57 <Attair57@gmail.com>
+Author: mef3579 <mef3579>
 Depiction: http://ishqip.xyz/pages/mef3579docks/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579docks.deb
-Size: 2047196
-MD5sum: 5ca743640ca88ce3b6a9e8db7cdc0bd7
+Size: 2047178
+MD5sum: 7f2970cdfeed67f8a654081d7aee11f3
+
+Package: ishqip.mef3579iconOs
+Description: mef3579 iconOs for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: mef3579 iconOs
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: mef3579 <mef3579>
+Depiction: http://ishqip.xyz/pages/mef3579iconOs/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.mef3579iconOs.deb
+Size: 32620
+MD5sum: 729ab3a50afa731239dd00a8ffc183fa
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
