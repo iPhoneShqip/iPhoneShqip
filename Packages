@@ -340,6 +340,20 @@ Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.2.deb
 Size: 29638240
 MD5sum: 49ed6b30e94750b7f2ce75cfa95ad215
 
+Package: ishqip.kawikadocks
+Description: Kawika Docks Packs for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: Kawika Docks
+Section: Themes (Docks)
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 & MtK Design <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/kawikadocks/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.kawikadocks.deb
+Size: 6417288
+MD5sum: af70711d01ce2dcc610233328fa6739b
+
 Package: ishqip.l3tofreedocks
 Description: Attairdu57slm & MtK Design L3TO Free Docks for iOS 7/8/9/10/11/12/13
 Version: 1.0
