@@ -358,15 +358,29 @@ Package: ishqip.l3tofreeiconOs
 Description: Attairdu57slm & MtK Design L3TO Free iconOs for iOS 7/8/9/10/11/12/13
 Version: 1.0
 Name: L3TO Free iconOs
-Section: Themes (Docks)
+Section: Themes (iconOs)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
 Author: Attair57 & MtK Design <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/l3tofreeiconOs/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.l3tofreeiconOs.deb
-Size: 1415884
-MD5sum: cf78142d10c51d4a6be235b686c88b63
+Size: 1415880
+MD5sum: fe832bf1902fd94d5ec6a55c1b93317d
+
+Package: ishqip.l3toyellowfreemodd
+Description: Attairdu57slm & MtK Design L3TO Yellow Free Modd for iOS 7/8/9/10/11/12/13
+Version: 1.0
+Name: L3TO Yellow Free Modd
+Section: Themes
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: Attair57 & MtK Design <Attair57@gmail.com>
+Depiction: http://ishqip.xyz/pages/l3toyellowfreemodd/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.l3toyellowfreemodd.deb
+Size: 1191120
+MD5sum: df55be9f6497e6a6fe7e9c245272a99d
 
 Package: ishqip.mef3579docks
 Description: mef3579 Docks for iOS 7/8/9/10/11/12/13
@@ -386,15 +400,15 @@ Package: ishqip.mef3579iconOs
 Description: mef3579 iconOs for iOS 7/8/9/10/11/12/13
 Version: 1.0
 Name: mef3579 iconOs
-Section: Themes (Docks)
+Section: Themes (IconOs)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
 Author: mef3579 <mef3579>
 Depiction: http://ishqip.xyz/pages/mef3579iconOs/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579iconOs.deb
-Size: 32620
-MD5sum: 729ab3a50afa731239dd00a8ffc183fa
+Size: 32624
+MD5sum: f94a03308c8fd1ea49159a0352e3e8f3
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
