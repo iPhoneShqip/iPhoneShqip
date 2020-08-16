@@ -400,15 +400,15 @@ Package: ishqip.mef3579iconOs
 Description: mef3579 iconOs for iOS 7/8/9/10/11/12/13
 Version: 1.0
 Name: mef3579 iconOs
-Section: Themes (IconOs)
+Section: Themes (iconOs)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
 Architecture: iphoneos-arm
 Author: mef3579 <mef3579>
 Depiction: http://ishqip.xyz/pages/mef3579iconOs/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579iconOs.deb
-Size: 32624
-MD5sum: f94a03308c8fd1ea49159a0352e3e8f3
+Size: 32622
+MD5sum: 6e96fd554625d5981fe810993a78206d
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
