@@ -356,7 +356,7 @@ MD5sum: af70711d01ce2dcc610233328fa6739b
 
 Package: ishqip.l3tofreedocks
 Description: Attairdu57slm & MtK Design L3TO Free Docks for iOS 7/8/9/10/11/12/13
-Version: 1.0
+Version: 1.0-1
 Name: L3TO Free Docks
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
@@ -365,8 +365,8 @@ Author: Attair57 & MtK Design <Attair57@gmail.com>
 Depiction: http://ishqip.xyz/pages/l3tofreedocks/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.l3tofreedocks.deb
-Size: 2231682
-MD5sum: f611188740ef7a3d078c7e1206afe975
+Size: 4560560
+MD5sum: df6bb3a680cb013e65a1dfc8792b1516
 
 Package: ishqip.l3tofreeiconOs
 Description: Attairdu57slm & MtK Design L3TO Free iconOs for iOS 7/8/9/10/11/12/13
