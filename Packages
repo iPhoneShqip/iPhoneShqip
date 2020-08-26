@@ -340,6 +340,20 @@ Filename: ./debs/ishqip.hatiato.goldv2hdwhite.v1.2.deb
 Size: 29638240
 MD5sum: 49ed6b30e94750b7f2ce75cfa95ad215
 
+Package: ishqip.iconsfixed
+Description: Icons Fixed for theme on SnowBoard signed by: AltStore
+Version: 1.0
+Name: Icons Fixed for SnowBoard
+Section: Themes
+Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
+Architecture: iphoneos-arm
+Author: iPhShqip <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/iconsfixed/index.html
+Homepage: https://twitter.com/iPhShqip
+Filename: ./debs/ishqip.iconsfixed.deb
+Size: 1074
+MD5sum: cb701b6666d7aa518bc9eb78567af47f
+
 Package: ishqip.kawikadocks
 Description: Kawika Docks Packs for iOS 7/8/9/10/11/12/13
 Version: 1.0
