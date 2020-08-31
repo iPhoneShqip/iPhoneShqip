@@ -351,8 +351,8 @@ Author: iPhShqip <iPhoneShqip@hotmail.com>
 Depiction: http://ishqip.xyz/pages/iconsfixed/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.iconsfixed.deb
-Size: 1074
-MD5sum: cb701b6666d7aa518bc9eb78567af47f
+Size: 1092
+MD5sum: c25b469f9b26295366793ed39ee22010
 
 Package: ishqip.kawikadocks
 Description: Kawika Docks Packs for iOS 7/8/9/10/11/12/13
@@ -412,7 +412,7 @@ MD5sum: df55be9f6497e6a6fe7e9c245272a99d
 
 Package: ishqip.mef3579docks
 Description: mef3579 Docks for iOS 7/8/9/10/11/12/13
-Version: 1.0
+Version: 1.0-1
 Name: mef3579 Docks
 Section: Themes (Docks)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
@@ -421,12 +421,12 @@ Author: mef3579 <mef3579>
 Depiction: http://ishqip.xyz/pages/mef3579docks/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579docks.deb
-Size: 2047178
-MD5sum: 7f2970cdfeed67f8a654081d7aee11f3
+Size: 3489250
+MD5sum: 1996209e5a8c86c7fcf843986eeae3bf
 
 Package: ishqip.mef3579iconOs
 Description: mef3579 iconOs for iOS 7/8/9/10/11/12/13
-Version: 1.0
+Version: 1.0-1
 Name: mef3579 iconOs
 Section: Themes (iconOs)
 Maintainer: iPhShqip <iPhoneShqip@hotmail.com>
@@ -435,8 +435,8 @@ Author: mef3579 <mef3579>
 Depiction: http://ishqip.xyz/pages/mef3579iconOs/index.html
 Homepage: https://twitter.com/iPhShqip
 Filename: ./debs/ishqip.mef3579iconOs.deb
-Size: 32622
-MD5sum: 6e96fd554625d5981fe810993a78206d
+Size: 2218502
+MD5sum: 00d632b0519dd7a3496f9682ee5c4bca
 
 Package: ishqip.nonflatforiconomatic
 Description: The nonFlat for iconOmatic.
