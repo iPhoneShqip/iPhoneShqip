@@ -29,6 +29,19 @@ Filename: ./debs/com.rpetrich.videopace.deb
 Size: 19542
 MD5sum: 2316ed8b9f0667cb7332e117812cbbd3
 
+Package: com.samgisaninja.successionrestore
+Description: Restore without updating via rootfilesystem DMG
+Version: 1.4.16~b4
+Name: Succession
+Section: Utilities
+Maintainer: Samg_is_a_Ninja
+Architecture: iphoneos-arm
+Depends: firmware-sbin, rsync
+Author: Samg_is_a_Ninja
+Filename: ./debs/com.samgisaninja.successionrestore.deb
+Size: 1179304
+MD5sum: 9183c09c38e94fa35e0e09cf4bd3ea4f
+
 Package: ishqip.androidlollipopstatusbar
 Description: Android Lollipop Status Bar. Included Signal Bars & Wifi.
 Version: 1.0
