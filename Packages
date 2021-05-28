@@ -15,6 +15,24 @@ Filename: ./debs/com.ceadd.blockyoux_3.1.3_iphoneos-arm.deb
 Size: 115206
 MD5sum: 29236ae0f83e2e74e067302c5ddd3e29
 
+Package: com.kurrt.lifeguard
+Description: Respring your device using the hardware buttons.
+Version: 1.2
+Name: Lifeguard
+Section: Tweaks
+Maintainer: Kurrt <dev@kurrt.com>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Kurrt <dev@kurrt.com>
+Depiction: https://kurrt.com/repo/lifeguard
+Homepage: https://kurrt.com/repo/lifeguard
+Installed-Size: 660
+device using the hardware buttons.
+dev@kurrt.com>
+Filename: ./debs/com.kurrt.lifeguard_1.2_iphoneos-arm.deb
+Size: 144304
+MD5sum: 583b7e6169fec8538d429e1e7bb3fc3a
+
 Package: com.rpetrich.videopace
 Description: Increase speed of video playback
 Version: 1.1.2
