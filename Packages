@@ -254,7 +254,7 @@ Size: 100228
 MD5sum: 594f8bf4eae59b1716b8490e60b95d1d
 
 Package: ishqip.cylindereffects
-Description: Effects Cylinder for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 9.0.2 Main tweaks required Cylinder. Apply via Cylinder on Effects in Settings.
+Description: Effects Cylinder for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 14.8 Main tweaks required Cylinder. Apply via Cylinder on Effects in Settings.
 Version: 1.0
 Name: Cylinder Effects
 Section: Addons (Cylinder)
@@ -262,12 +262,13 @@ Architecture: iphoneos-arm
 Depends: com.r333d.cylinder
 Author: iSHQ!P <iPhoneShqip@hotmail.com>
 Depiction: http://ishqip.xyz/pages/cylindereffects/index.html
+Conflicts: com.ryannair05.cylinder, ishqip.cylinderreborneffects, ishqip.cylinderrebornformulas
 Filename: ./debs/ishqip.cylindereffects.deb
-Size: 21040
-MD5sum: 6afe57777ffdee84ba432dc143cc6e82
+Size: 21076
+MD5sum: 0682d0d76ec583b7c3783febde810e6f
 
 Package: ishqip.cylinderformulas
-Description: Formulas Cylinder from http://www.reddit.com/r/cylinder/ for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 9.0.2 Main tweaks required Cylinder and Cylinder Effects installed. Activate in Cylinder in Formulas on Settings.
+Description: Formulas Cylinder from http://www.reddit.com/r/cylinder/ for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 14.8 Main tweaks required Cylinder and Cylinder Effects installed. Activate in Cylinder in Formulas on Settings.
 Version: 1.0
 Name: Cylinder Formulas
 Section: Addons (Cylinder)
@@ -275,9 +276,38 @@ Architecture: iphoneos-arm
 Depends: com.r333d.cylinder, ishqip.cylindereffects
 Author: iSHQ!P <iPhoneShqip@hotmail.com>
 Depiction: http://ishqip.xyz/pages/cylinderformulas/index.html
+Conflicts: com.ryannair05.cylinder, ishqip.cylinderreborneffects, ishqip.cylinderrebornformulas
 Filename: ./debs/ishqip.cylinderformulas.deb
-Size: 4988
-MD5sum: 7ebac6edea0e9b4e95e6f7ded98cbb8d
+Size: 5026
+MD5sum: 98f544a94f9996da5d6396de65e6ce2c
+
+Package: ishqip.cylinderreborneffects
+Description: Effects Cylinder Reborn for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 14.8 Main tweaks required Cylinder. Apply via Cylinder on Effects in Settings.
+Version: 1.0
+Name: Cylinder Reborn Effects
+Section: Addons (Cylinder)
+Architecture: iphoneos-arm
+Depends: com.ryannair05.cylinder
+Author: iSHQ!P <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/cylinderreborneffects/index.html
+Conflicts: com.r333d.cylinder, ishqip.cylindereffects, ishqip.cylindereffects
+Filename: ./debs/ishqip.cylinderreborneffects.deb
+Size: 21076
+MD5sum: bf3c4bdd5efa27f1147f5e2b5bd0a85b
+
+Package: ishqip.cylinderrebornformulas
+Description: Formulas Cylinder from http://www.reddit.com/r/cylinder/ for iPhone 3GS/4/5/5S/6/6+/6S/6S+ iPod Touch and iPad on iOS 4.x to 14.8 Main tweaks required Cylinder and Cylinder Effects installed. Activate in Cylinder in Formulas on Settings.
+Version: 1.0
+Name: Cylinder Formulas Reborn
+Section: Addons (Cylinder)
+Architecture: iphoneos-arm
+Depends: com.ryannair05.cylinder, ishqip.cylinderreborneffects
+Author: iSHQ!P <iPhoneShqip@hotmail.com>
+Depiction: http://ishqip.xyz/pages/cylinderrebornformulas/index.html
+Conflicts: com.r333d.cylinder, ishqip.cylindereffects, ishqip.cylindereffects
+Filename: ./debs/ishqip.cylinderrebornformulas.deb
+Size: 5028
+MD5sum: b3d95205066d204472f4a128a3f08a85
 
 Package: ishqip.elcapitanloadingindicator
 Description: The Beach Ball loading indicator from Mac OS X
