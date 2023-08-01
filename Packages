@@ -1,3 +1,18 @@
+Package: ch.mdaus.latchkey
+Description: Move and theme the Face-ID lock glyph
+Version: 2.2
+Name: LatchKey
+Section: Tweaks
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Installed-Size: 10200
+Filename: ./debs/ch.mdaus.latchkey.deb
+Size: 6343418
+MD5sum: 87c020fcb6f177ad2672de04e19b6670
+
 Package: com.ceadd.blockyoux
 Description: The Best Ad Blocker. Period.
 Version: 3.1.3
