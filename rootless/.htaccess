@@ -1,0 +1,15 @@
+Options -Indexes
+Options +FollowSymlinks
+
+<files .htaccess>
+Order allow,deny
+Deny from all
+</files>
+
+# ERREURS PERSONNALISEES
+ErrorDocument 400 /
+ErrorDocument 401 /
+ErrorDocument 402 /
+ErrorDocument 403 /
+ErrorDocument 404 /404.php
+ErrorDocument 500 /
