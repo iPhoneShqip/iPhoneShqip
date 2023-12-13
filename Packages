@@ -1,3 +1,18 @@
+Package: com.ali.aimpro
+Description: iOS 16 Style Time & Date Lockscreen
+Version: 1.0.5
+Name: AIM Pro
+Section: Tweaks
+Maintainer: alimaulana
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Author: alimaulana
+Installed-Size: 4904
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.ali.aimpro.deb
+Size: 2842002
+MD5sum: cde4fbc0b24de123c7f320bccd7a26a2
+
 Package: com.dcproducts.colorbar15
 Description: ColorBar15 allows you to personally style your status bar with colors and more.
 Version: 1.1.0
@@ -12,6 +27,34 @@ Installed-Size: 1952
 Filename: ./debs/com.dcproducts.colorbar15.deb
 Size: 691094
 MD5sum: 30097e629dda88061af2831a34fd48d0
+
+Package: com.miguelaka95.bettercc
+Description: Customize your Control Center!
+Version: 0.0.6
+Name: BetterCC
+Section: Tweaks
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Installed-Size: 2024
+Filename: ./debs/com.miguelaka95.bettercc.deb
+Size: 355036
+MD5sum: 14d3955852cec81e83feced478824319
+
+Package: com.miguelaka95.customizecc
+Description: Customize your Control Center!
+Version: 1.4.3-3+debug
+Name: CustomizeCC
+Section: Tweaks
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Installed-Size: 1104
+Filename: ./debs/com.miguelaka95.customizecc.deb
+Size: 276498
+MD5sum: dd764d2389726a39d647d783b5ff799e
 
 Package: com.p2kdev.colorbar
 Description: Color that HomeBar!
