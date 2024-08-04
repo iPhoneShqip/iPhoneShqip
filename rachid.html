@@ -1,0 +1,228 @@
+<html><head><base href="https://www.patisserieraffinee.com/">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>4 Rachid - Délices Artisanaux</title>
+<style>
+  :root {
+    --primary-color: #4A4A4A;
+    --secondary-color: #8C8C8C;
+    --background-color: #F5F5F5;
+    --accent-color: #D4D4D4;
+    --text-color: #333333;
+  }
+  
+  body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: var(--primary-color);
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .logo-container {
+    margin-bottom: 15px;
+  }
+  
+  .logo {
+    width: 120px;
+    height: 120px;
+  }
+  
+  h1 {
+    color: #FFF;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-weight: 300;
+  }
+  
+  nav {
+    background-color: var(--accent-color);
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 500;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+  }
+  
+  .product-card {
+    background-color: #FFF;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .product-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .product-info {
+    padding: 20px;
+  }
+  
+  .product-title {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+  }
+  
+  .product-price {
+    font-weight: bold;
+    color: var(--primary-color);
+    font-size: 1.2em;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: #FFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+  }
+  
+  .btn:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  footer {
+    background-color: var(--primary-color);
+    color: #FFF;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="logo-container">
+      <svg class="logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="48" fill="#F5F5F5" stroke="#4A4A4A" stroke-width="2"/>
+        <path d="M30 40 Q50 20 70 40 T70 60 Q50 80 30 60 T30 40" fill="#8C8C8C" stroke="#4A4A4A" stroke-width="2"/>
+        <circle cx="50" cy="50" r="10" fill="#4A4A4A"/>
+        <path d="M40 30 Q50 25 60 30" fill="none" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round"/>
+        <path d="M35 70 Q50 75 65 70" fill="none" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <h1>Pour Rachid</h1>
+    <p>Des créations artisanales pour les palais exigeants</p>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#patisseries">Nos Pâtisseries</a></li>
+      <li><a href="#apropos">Notre Histoire</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#commande">Commander</a></li>
+    </ul>
+  </nav>
+  
+  <div class="container">
+    <h2 id="patisseries">Nos Créations Artisanales</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="https://replicate.delivery/yhqm/jfrbWaBQ0A3zFaNzPeZjLePOHQsgDN9BIfXheAhcjdeKiH2zE/out-0.webp" alt="Tarte au chocolat noir avec ganache lisse et brillante" class="product-image" width="280" height="250">
+        <div class="product-info">
+          <h3 class="product-title">Tarte au Chocolat Noir Grand Cru</h3>
+          <p class="product-description">Une ganache onctueuse de chocolat noir 70% dans une pâte sablée au beurre.</p>
+          <p class="product-price">28,00 €</p>
+          <a href="#" class="btn">Commander</a>
+        </div>
+      </div>
+      <div class="product-card">
+        <img src="https://replicate.delivery/yhqm/w2BOZ30Glho1AFB8EzWoJlIZYPkyIcVyE3HVDkt8PlPnI2zE/out-0.webp" alt="Macarons à la framboise avec une ganache rose vif" class="product-image" width="280" height="250">
+        <div class="product-info">
+          <h3 class="product-title">Macarons à la Framboise</h3>
+          <p class="product-description">Délicats macarons garnis d'une crème à la framboise fraîche.</p>
+          <p class="product-price">22,00 € (boîte de 12)</p>
+          <a href="#" class="btn">Commander</a>
+        </div>
+      </div>
+      <div class="product-card">
+        <img src="https://page-images.websim.ai/Millefeuille%20%C3%A0%20la%20vanille%20avec%20feuilletage%20caram%C3%A9lis%C3%A9_280x250xrIXcBMLEvFbgqCAndxd39f31cdb17fa.jpg" alt="Entremets pistache-griotte avec glaçage miroir" class="product-image" width="280" height="250">
+        <div class="product-info">
+          <h3 class="product-title">Entremets Pistache-Griotte</h3>
+          <p class="product-description">Biscuit moelleux à la pistache, compotée de griottes et mousse légère.</p>
+          <p class="product-price">32,00 €</p>
+          <a href="#" class="btn">Commander</a>
+        </div>
+      </div>
+      <div class="product-card">
+        <img src="https://page-images.websim.ai/Millefeuille%20%C3%A0%20la%20vanille%20avec%20feuilletage%20caram%C3%A9lis%C3%A9_280x250xrIXcBMLEvFbgqCAndxd39f31cdb17fa.jpg" alt="Millefeuille à la vanille avec feuilletage caramélisé" class="product-image" width="280" height="250">
+        <div class="product-info">
+          <h3 class="product-title">Millefeuille à la Vanille de Madagascar</h3>
+          <p class="product-description">Feuilletage caramélisé et crème pâtissière à la vanille de Madagascar.</p>
+          <p class="product-price">26,00 €</p>
+          <a href="#" class="btn">Commander</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <footer>
+    <p>&copy; 2024 Pour Rachid. Tous droits réservés.</p>
+  </footer>
+
+  <script>
+    document.querySelectorAll('.btn').forEach(button => {
+      button.addEventListener('click', function(e) {
+        e.preventDefault();
+        const productName = this.closest('.product-card').querySelector('.product-title').textContent;
+        alert(`Merci d'avoir choisi "${productName}". Votre commande a été ajoutée au panier.`);
+      });
+    });
+  </script>
+</body>
+</html>
