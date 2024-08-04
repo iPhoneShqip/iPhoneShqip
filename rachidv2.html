@@ -1,0 +1,362 @@
+<html><head><base href="https://www.patisserieraffinee.com/">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pâtisserie Raffinée - Délices Artisanaux</title>
+<style>
+  :root {
+    --primary-color: #4A4A4A;
+    --secondary-color: #8C8C8C;
+    --background-color: #F5F5F5;
+    --accent-color: #D4D4D4;
+    --text-color: #333333;
+    --cake-color: #FFD700;
+    --frosting-color: #FFF0F5;
+    --cherry-color: #FF0000;
+  }
+  
+  body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  header {
+    background-color: var(--primary-color);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .logo-container {
+    margin-bottom: 15px;
+  }
+  
+  .logo {
+    width: 150px;
+    height: 150px;
+  }
+  
+  h1 {
+    color: #FFF;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-weight: 300;
+  }
+  
+  .main-content {
+    display: flex;
+    flex: 1;
+  }
+  
+  nav {
+    width: 250px;
+    background-color: var(--accent-color);
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin-bottom: 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 500;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    color: var(--secondary-color);
+  }
+  
+  .container {
+    flex: 1;
+    padding: 40px;
+  }
+  
+  .category-section {
+    margin-bottom: 60px;
+  }
+  
+  .category-title {
+    font-size: 2em;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+  }
+  
+  .product-card {
+    background-color: #FFF;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .product-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .product-info {
+    padding: 20px;
+  }
+  
+  .product-title {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+  }
+  
+  .product-price {
+    font-weight: bold;
+    color: var(--primary-color);
+    font-size: 1.2em;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: #FFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+  }
+  
+  .btn:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  footer {
+    background-color: var(--primary-color);
+    color: #FFF;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  @keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  .cherry {
+    animation: rotate 10s linear infinite;
+    transform-origin: 50% 70%;
+  }
+
+  @media (max-width: 768px) {
+    .main-content {
+      flex-direction: column;
+    }
+    
+    nav {
+      width: 100%;
+      order: -1;
+    }
+    
+    nav ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    nav ul li {
+      margin: 0 10px 10px 0;
+    }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="logo-container">
+      <svg class="logo" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <!-- Cake base -->
+        <path d="M30 150 Q100 120 170 150 L170 180 Q100 150 30 180 Z" fill="var(--cake-color)" stroke="var(--primary-color)" stroke-width="3"/>
+        
+        <!-- Frosting -->
+        <path d="M40 140 Q100 110 160 140 Q130 100 100 90 Q70 100 40 140" fill="var(--frosting-color)" stroke="var(--primary-color)" stroke-width="2"/>
+        
+        <!-- Decorative swirls -->
+        <path d="M60 135 Q80 125 100 135 Q120 125 140 135" fill="none" stroke="var(--primary-color)" stroke-width="2"/>
+        <path d="M50 155 Q75 145 100 155 Q125 145 150 155" fill="none" stroke="var(--primary-color)" stroke-width="2"/>
+        
+        <!-- Cherry on top -->
+        <g class="cherry">
+          <circle cx="100" cy="80" r="12" fill="var(--cherry-color)" stroke="var(--primary-color)" stroke-width="1"/>
+          <path d="M100 80 Q110 60 120 50" fill="none" stroke="var(--primary-color)" stroke-width="2"/>
+        </g>
+      </svg>
+    </div>
+    <h1>Rachid</h1>
+    <p>Des créations artisanales pour les palais exigeants</p>
+  </header>
+  
+  <div class="main-content">
+    <nav>
+      <ul>
+        <li><a href="#gateaux">Gâteaux</a></li>
+        <li><a href="#tartes">Tartes</a></li>
+        <li><a href="#viennoiseries">Viennoiseries</a></li>
+        <li><a href="#macarons">Macarons</a></li>
+        <li><a href="#apropos">Notre Histoire</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    
+    <div class="container">
+      <section id="gateaux" class="category-section">
+        <h2 class="category-title">Gâteaux</h2>
+        <div class="product-grid">
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/3hcO4CfiTvxsOq54rM2asJPiwfg34GtJRTOfHfGG2Y4Mlj9MB/out-0.webp" alt="Entremets pistache-griotte avec glaçage miroir" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Entremets Pistache-Griotte</h3>
+              <p class="product-description">Biscuit moelleux à la pistache, compotée de griottes et mousse légère.</p>
+              <p class="product-price">32,00 €</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/PcGNR19Q0ZI0Gh4WfFnN2kntoSVdRge7leBjEqWK07FoyxeMB/out-0.webp" alt="Gâteau Opéra avec des couches de café et de chocolat" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Opéra Café-Chocolat</h3>
+              <p class="product-description">Biscuit Joconde, crème au beurre café, ganache chocolat noir.</p>
+              <p class="product-price">30,00 €</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <section id="tartes" class="category-section">
+        <h2 class="category-title">Tartes</h2>
+        <div class="product-grid">
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/wjZv9nlqcno8NVtowqshNmdBBilbqCunw6QAqerOSG5qcsnJA/out-0.webp" alt="Tarte au chocolat noir avec ganache lisse et brillante" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Tarte au Chocolat Noir Grand Cru</h3>
+              <p class="product-description">Une ganache onctueuse de chocolat noir 70% dans une pâte sablée au beurre.</p>
+              <p class="product-price">28,00 €</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/qpLesNNJnlTYCSv3Otf0Ogk1VfDyeBsvh0pqVYnyROIfKH7ZC/out-0.webp" alt="Tarte au citron meringuée avec meringue dorée" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Tarte au Citron Meringuée</h3>
+              <p class="product-description">Crème de citron acidulée, meringue légère et croustillante.</p>
+              <p class="product-price">26,00 €</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <section id="viennoiseries" class="category-section">
+        <h2 class="category-title">Viennoiseries</h2>
+        <div class="product-grid">
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/QuY7l4B5rU6lJZDeNsjzRIAZfsYVmQaTG3LbdHyOxpoZ5YPTA/out-0.webp" alt="Croissant au beurre doré et feuilleté" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Croissant Pur Beurre</h3>
+              <p class="product-description">Croissant traditionnel au beurre AOP, feuilletage délicat.</p>
+              <p class="product-price">2,50 €</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/87k0RsUm0lbyKhidqxq6QZdiaLOzaaHVG7dPJf0wqYvtcsnJA/out-0.webp" alt="Pain au chocolat avec deux barres de chocolat visibles" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Pain au Chocolat</h3>
+              <p class="product-description">Viennoiserie feuilletée garnie de deux barres de chocolat noir.</p>
+              <p class="product-price">2,80 €</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <section id="macarons" class="category-section">
+        <h2 class="category-title">Macarons</h2>
+        <div class="product-grid">
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/a14dZbxbuexqF6kKLpVpEglpanYI0d22gI1WQH6nEsDucsnJA/out-0.webp" alt="Macarons à la framboise avec une ganache rose vif" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Macarons à la Framboise</h3>
+              <p class="product-description">Délicats macarons garnis d'une crème à la framboise fraîche.</p>
+              <p class="product-price">22,00 € (boîte de 12)</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="https://replicate.delivery/yhqm/qdl02wLGyQruGRvJxnqNsjTL1ozEVm66aududjMznflvcsnJA/out-0.webp" alt="Assortiment de macarons colorés" class="product-image" width="280" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Assortiment de Macarons</h3>
+              <p class="product-description">Sélection de nos saveurs signatures : vanille, chocolat, pistache, citron, caramel, framboise.</p>
+              <p class="product-price">26,00 € (boîte de 15)</p>
+              <a href="#" class="btn">Commander</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  
+  <footer>
+    <p>&copy; 2024 Rachid. Tous droits réservés.</p>
+  </footer>
+
+  <script>
+    document.querySelectorAll('.btn').forEach(button => {
+      button.addEventListener('click', function(e) {
+        e.preventDefault();
+        const productName = this.closest('.product-card').querySelector('.product-title').textContent;
+        alert(`Merci d'avoir choisi "${productName}". Votre commande a été ajoutée au panier.`);
+      });
+    });
+    
+    document.querySelectorAll('nav a').forEach(anchor => {
+      anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const targetId = this.getAttribute('href').substring(1);
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          targetElement.scrollIntoView({ behavior: 'smooth' });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
