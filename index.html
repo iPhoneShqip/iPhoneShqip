@@ -1,11 +1,160 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>iSHQ!P REPO</title>
-</head>
+<!DOCTYPE html><html><head><base href="https://spacetravel.com/%20menu%20en%20haut%20avec%20des%20menu%20plus%20beau">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cosmic Voyages - Exploration Spatiale</title>
+<style>
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Orbitron', sans-serif;
+    background: #000 url('https://spacetravel.com/assets/deep-space.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    overflow-x: hidden;
+}
 
+.stars {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.menu-item {
+    margin: 0 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.menu-item::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, #00f1ff, #00ff88);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+}
+
+.menu-item:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+.menu-item:hover {
+    color: #00f1ff;
+    text-shadow: 0 0 10px #00f1ff;
+}
+
+.content {
+    padding-top: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px #00f1ff;
+}
+
+p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+@keyframes twinkle {
+    0% { opacity: 0.5; }
+    50% { opacity: 1; }
+    100% { opacity: 0.5; }
+}
+
+.star {
+    position: absolute;
+    background: #fff;
+    border-radius: 50%;
+    animation: twinkle 2s infinite;
+}
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;display=swap" rel="stylesheet">
+</head>
 <body>
-<img src="MobileVersion.png" width="1440" height="2560" />
-</body>
-</html>
+
+<div class="stars" id="starfield"></div>
+
+<nav>
+    <div class="menu">
+        <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://iship.xyz/" class="menu-item">Cydia</a>
+        <a href="sileo://source/http://ishqip.xyz/" class="menu-item">Sileo</a>
+        <a href="installer://add/http://ishqip.xyz/" class="menu-item">Installer</a>
+        <a href="zbra://http://ishqip.xyz/" class="menu-item">Zebra</a>
+    </div>
+</nav>
+
+<div class="content">
+    <h1>Welcome to the website of iSHQ!P REPO</h1>
+</div>
+
+<script>
+function createStars() {
+    const starfield = document.getElementById('starfield');
+    const numStars = 200;
+
+    for (let i = 0; i < numStars; i++) {
+        const star = document.createElement('div');
+        star.className = 'star';
+        star.style.width = `${Math.random() * 3}px`;
+        star.style.height = star.style.width;
+        star.style.left = `${Math.random() * 100}%`;
+        star.style.top = `${Math.random() * 100}%`;
+        star.style.animationDuration = `${2 + Math.random() * 3}s`;
+        star.style.animationDelay = `${Math.random() * 2}s`;
+
+        starfield.appendChild(star);
+    }
+}
+
+createStars();
+
+// Ajout d'un effet de parallaxe simple
+document.addEventListener('mousemove', (e) => {
+    const stars = document.querySelectorAll('.star');
+    const mouseX = e.clientX / window.innerWidth;
+    const mouseY = e.clientY / window.innerHeight;
+
+    stars.forEach((star) => {
+        const speed = parseFloat(star.style.width) * 0.2;
+        star.style.transform = `translate(${mouseX * speed}px, ${mouseY * speed}px)`;
+    });
+});
+</script>
+
+
+</body></html>
